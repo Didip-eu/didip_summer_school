@@ -1,0 +1,135 @@
+<?xml-model href="https://raw.githubusercontent.com/virgile-reignier/CEI4Historians/main/relax_ng/cei_for_historians.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/virgile-reignier/CEI4Historians/main/relax_ng/cei_for_historians.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AD38-B-3522-4">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <msDesc>
+                            <msIdentifier>
+                                <region>France</region>
+                                <settlement>Saint-Martin-d'Hères</settlement>
+                                <repository>Archives Départementales de l'Isère</repository>
+                                <idno type="cote_archivistique">B 3522, n°4</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support>
+                                            <material>Parchemin</material>
+                                        </support>
+                                        <condition>
+                                            <objectName>Photographie personnelle</objectName>
+                                        </condition>
+                                    </supportDesc>
+                                </objectDesc>
+                            </physDesc>
+                            <diploDesc>
+                                <copyStatus>Original</copyStatus>
+                            </diploDesc>
+                            <authDesc>
+                                <seal n="1" type="pendant">
+                                    <p>Sceau protégé</p>
+                                </seal>
+                            </authDesc>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <list>
+                    <item source="#reg_viv">
+                        <ref>Reg. Viv. 99</ref>. Vente du château et mandement de la Barre
+                        consentie par Guigues et Ponce Gontard frères, fils de feu Armand de la
+                        Barre, chevalier, en favaeur d’Aimar, fils de Guillaume de Poitiers,
+                        moyennant 180 liv. viennois</item>
+                    <item source="#reg_dauph">
+                        <ref>Reg. Dauph. 8583</ref></item>
+                </list>
+            </abstract>
+            <textClass>
+                <keywords source="#vid_1997">
+                    <term corresp="http://www.cei.lmu.de/VID#484">venditio</term>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr-Latn-MA-FR">latin médiéval</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text type="full">
+        <body>
+            <p>Noverint universi et singuli presentes litteras inspecturi quod <issued>
+                    <date when="1249-12-01">anno domini Mo CCo XLo novo kal. decemb.</date>
+                </issued>, <lb/>
+                <persName role="issuer" nymRef="#gigo_gontardi">Gigo</persName> et <persName role="issuer" nymRef="#poncius_gontardi">Poncius Gontardi</persName>
+                <relation mutual="#gigo_gontardi #poncius_gontardi" name="fam">fratres</relation>,
+                    <relation active="#gigo_gontardi #poncius_gontardi" name="fam">filii <persName role="mentioned" nymRef="#armandus_de_barre">condam Armandi de Barre
+                            <roleName nymRef="#armandus_de_barre">militis</roleName>
+                    </persName>
+                </relation>, non vi, non dolo nec aliqua fraude indve<lb/>ti, pure, simpliciter,
+                irrevocaviliter, ex certa, scientia et spontanea voluntate <diploPart type="dispositio">vendiderunt, cessurunt et titulo <lb/>perfecte venditionis
+                    tradiderunt <persName role="recipient" nymRef="#ademarus_de_pictavia">domino
+                        Ademaro <relation name="fam" active="#ademarus_de_pictavia" passive="#guillermus_de_pictavia">filio <persName role="mentioned" nymRef="#guillermus_de_pictavia">condam domini Guillermi de
+                                Pictavia</persName>
+                        </relation>
+                    </persName>
+                    <asset type="realEstate">omnis res quas <lb/>habebant, tenebant, possidebant et
+                        quasi seu habere, tenere, possidere et quasi debebant, quicquid ipsis vel
+                        alicu<lb/>i ipsorum, jure hereditario vel alio, contingerit seu poterit in
+                        posterum competere vel etiam pertinere, in <placeName nymRef="#barre">castro
+                            et <lb/>mandamento de Barre</placeName> vel alibi</asset>, <diploPart type="appartClause">sive sint homines, terre culte vel inculte, vinee,
+                        prata, pascua, <lb/>nemora, dominia juridictiones, clamores justicie seu
+                        alia quocumque nomine appellentur</diploPart>; cedentes eidem <lb/>domino A
+                    supradicto <diploPart type="appartClause">omnia jura et omnes actiones,
+                        competentia et competentes, competitura et competituras, rea<lb/>les
+                        personales, arbitrarias atque mixtas ad habendum, tendentum, possidendum et
+                        quasi et quicquid dicto do<lb/>mino A et suis heredibus deinceps placuerit
+                        faciendum</diploPart>; et hec pro precio <asset type="amount">
+                        <measure unit="libra_viennensium" quantity="180">novem XXti librarum
+                            Viennensium mo<lb/>nete</measure>
+                    </asset>, quod precium Gigo et Poncius predicti consessi sunt habuisse a domino
+                    A predicto numeratione continua <lb/>integre recepisse</diploPart>; renunciantes
+                exceptioni non numerate peccunie, non recepte et precii non soluti. <lb/>Si vero res
+                predicte plus valerent precio supradicto, quantumcumque illud sit, sive duplum sive
+                triplum sive quadru<lb/>plum excedat vel amplius, omne sive totum illud plus tam
+                donationis facte inter vivos dicto domino A, <lb/>animo irrevocabili, donaverunt;
+                dantes eidem domino A plenariam potestatem quod in possessionem <lb/>omnium
+                predictorum auctoritate propria intrare valeat et, donec possessionem omnium
+                predictorum adeptus fuerit, Gigo et <lb/>Poncius predicti se constituerunt nomine
+                domini A omnia supradicta universa et singula possidere; promittentes de
+                evic<lb/>tione dicto domino A sollepniter stipulanti et super hiis omnibus universis
+                et singulis supradictis, G et P predicti re<lb/>nuntiaverunt actioni et exceptioni
+                doli et in factum minoris etatis et in integrum restitutionis, benefi<lb/>cio et
+                legi dicenti donationem excedentionem summam quingentorum aureorum factam sine
+                insinuatione <lb/>non valere et omni juri canonico et civili. Universa vero et
+                singula supradicta G et P predicti per se et here<lb/>des suos promiserunt et sacro
+                sanctis euvangeliis manutactis juraverunt dicto domino A recipienti pro se et
+                <lb/>heredibus suis, sollempniter stipulanti se ratum et firmum perpetuo habere,
+                contra non venire et inviolabi<lb/>liter observare. <diploPart type="datatio">Actum
+                        <issued>in <placeName nymRef="#domo_guigonis_baiuli_de_bays">domo <persName nymRef="#guigo_baiuli_de_bays" role="mentioned">condam Gigonis
+                                baiuli de Bays</persName>
+                        </placeName>
+                    </issued></diploPart>, hiis testibus ad hoc vocatis et ro<lb/>gatis <persName role="witness" nymRef="#poncius_de_labalma">Poncio de Labalma</persName>,
+                    <persName role="witness" nymRef="#raymundus_de_torno">Raymundo de
+                    Torno</persName>, <persName role="witness" nymRef="#petrus_de_grana">Petro de
+                    Grana</persName>
+                <roleName nymRef="#raymundus_de_torno #poncius_de_labalma #petrus_de_grana">militibus</roleName>, <persName role="witness" nymRef="#enricus_de_barre">Enrico de Barre</persName>, <persName role="witness" nymRef="#petrus_benegarii">Pe <lb/>Benegarii</persName>, <persName role="witness" nymRef="#petrus_baiuli">Pe Baiuli</persName>, <persName role="witness" nymRef="#poncius_de_bais">Poncio
+                    de Bais</persName>, <persName role="witness" nymRef="#hugo_rufi">Hugo
+                    Rufi</persName>, <persName role="witness" nymRef="#raymundus_deler">Raymundo
+                    Deler</persName>, <persName role="witness" nymRef="#hugo_ricardi_faureto">Hugo</persName> et <persName role="witness" nymRef="#guillermus_ricardi_faureto">Guillermo Ricardi Fauroto</persName>, <lb/>
+                <persName role="witness" nymRef="#guillermus_de_sabaudia_forano">Guillermo de
+                    Sabaudia Forano</persName> et <persName role="witness" nymRef="#quedam">pluribus aliis</persName>, in cuius rei testimonium <persName role="sigillant" nymRef="#guillermus_chaafaldi">Guillermus Chaafaldi <roleName nymRef="#guillermus_chaafaldi">offici<lb/>alis Valentinensis</roleName>
+                </persName> ad istanciam et ad preces domini Ademari de Pictavia et Gi et Po
+                filiorum condam Ar<lb/>mandi de Barre predictorum presentem cartam sigilli curie
+                Valentine munimine roboravit.</p>
+        </body>
+    </text>
+</TEI>

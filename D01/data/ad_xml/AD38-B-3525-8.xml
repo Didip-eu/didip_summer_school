@@ -1,0 +1,354 @@
+<?xml-model href="https://raw.githubusercontent.com/virgile-reignier/CEI4Historians/main/relax_ng/cei_for_historians.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/virgile-reignier/CEI4Historians/main/relax_ng/cei_for_historians.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AD38-B-3525-8">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <msDesc>
+                            <msIdentifier>
+                                <region>France</region>
+                                <settlement>Saint-Martin-d'Hères</settlement>
+                                <repository>Archives Départementales de l'Isère</repository>
+                                <idno type="cote_archivistique">B 3525, n°8</idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support>
+                                            <material>Parchemin</material>
+                                        </support>
+                                        <condition>
+                                            <objectName>Photographie personnelle</objectName>
+                                        </condition>
+                                    </supportDesc>
+                                </objectDesc>
+                            </physDesc>
+                            <diploDesc>
+                                <copyStatus>Original</copyStatus>
+                            </diploDesc>
+                            <authDesc>
+                                <seal n="1" type="pendant">
+                                    <p>Sceau protégé</p>
+                                </seal>
+                            </authDesc>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <list>
+                    <item source="#reg_viv">
+                        <ref>Reg. Viv. 137</ref>. Echange entre Aymar de Poitiers, comte de
+                        Valentinois, et noble Pons de Mauvas par lequel le dit de Malvès donne en
+                        échange audit comte tous ses immeubles qu’il avait dans les châteaux et
+                        mandements de Barre, de Rochessauve, de Tournon et de Privas et en général
+                        tout ce qu’il avait au-delà du Rhône. En contre-échange, le comte donna
+                        audit de Malvès tout le terroir d’Astaise, la Motte (Baix ?), sauf le fief
+                        qu’il tenait dudit Jausserand de Granes</item>
+                    <item source="#reg_dauph">
+                        <ref>Reg. Dauph. 9773</ref></item>
+                    <item source="#inv_marcellier">Invent. Valentinois, III 88-89 et II, 83 ;
+                        Invent. Vivarais, 425-426 ; AD 07, C 196-1, p. 35-37</item>
+                </list>
+            </abstract>
+            <textClass>
+                <keywords corresp="#vid_1997">
+                    <term corresp="http://www.cei.lmu.de/VID#486">permutatio</term>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="fr-Latn-MA-FR">latin médiéval</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text type="full">
+        <body>
+            <p>Noverint universi et singuli presentem paginam inspecturi, quod ego <persName role="issuer" nymRef="#poncius_de_malves">Poncius de Malves <roleName nymRef="#poncius_de_malves">domicellus</roleName>
+                </persName>, per me et omnis successores meos, non vi, non dolo<lb/> nec aliqua
+                fraude inductus set ex certa, scientia et spontanea voluntate <diploPart type="dispositio">cedo, dono, solvo et trado ex causa permutationis vobis
+                        <persName role="recipient" nymRef="#ademarus_III_de_pictavia">
+                        <roleName nymRef="#ademarus_III_de_pictavia">domino</roleName> A de Pictavia
+                            <roleName nymRef="#ademarus_III_de_pictavia">comiti Valan.</roleName>
+                    </persName> presen<lb/>ti et recipienti pro vobis et heredibus vostris et
+                    successoribus <asset type="realEstate">omnia bona mea immobilia ubicumque et
+                        qualiacumque sint in <placeName nymRef="#barre">castro et mandamento de
+                            Barre</placeName> et in<lb/>
+                        <placeName nymRef="#rochassalva">castro de Rochassalva et mandamento
+                            eiusdem</placeName> et in <placeName nymRef="#torno">castro Turnonis et
+                            eius mandamento</placeName> et in <placeName nymRef="#privacium">villa
+                            Privacii</placeName> et in toto <placeName nymRef="#diocesis_vivariensis">Vivariensi episcopatu</placeName> et
+                        generaliter quicquid habeo<lb/> et habere debeo <placeName nymRef="#ultra_rodanum">ultra Rodanum</placeName>
+                    </asset>, <diploPart type="appartClause">sive sint domus seu casalia, homines
+                        seu mulieres, juridictiones, feuda, toute seu tallie, usatica, servitia,
+                        terre cul<lb/>te vel inculte, prata, pascua, nemora, patua, venationes,
+                        decursus aquarum, banna, justicie seu clamores seu alia quecumque sint et
+                        quocumque nomine appel<lb/>lentur</diploPart> et pro ista cessione,
+                    donatione et traditione recepi a vobis dicto domino A comite Valan. ex causa
+                    permutationis <asset type="realEstate">totum factum vostrum <placeName nymRef="#astaisa">d'Aastaisa</placeName> et specialiter <placeName nymRef="#mota">Motam</placeName> et<lb/> quicquid vos habetis in
+                            <placeName nymRef="#astaisa">castro d'Astaisa et mandamento
+                            eius</placeName>
+                    </asset>, <diploPart type="appartClause">sive sint homines seu mulieres, terre
+                        culte vel inculte, prata, pascua, nemora, patua,<lb/> venationes, toute seu
+                        tallie, venationes, servitia et omnia alia quecumque sint et quocumque
+                        nomine appellentur, <delimitation type="subtraction">excepto <asset type="realEstate">feudo quod a vobis tenent <persName nymRef="#jaucerandus_de_grana" role="mentioned">dominus<lb/>
+                                    Jaucerandus de Grana</persName> et <persName nymRef="#guillermus_de_grana" role="mentioned">Guillermus
+                                        <relation name="fam" mutual="#guillermus_de_grana #jaucerandus_de_grana">frater
+                                        eius</relation>
+                                </persName> in <placeName nymRef="#astaisa">dicto castro d'Astaisa
+                                    et mandamento eiusdem</placeName>
+                            </asset>
+                        </delimitation> et <delimitation type="subtraction">exceptis <asset type="justice">justiciis omnium criminum que commiterentur in
+                                    <placeName nymRef="#astaisa">dicto castro<lb/> d'Astaisa et
+                                    mandamento eiusdem</placeName>
+                            </asset>
+                        </delimitation>
+                    </diploPart>. Item recepi a vobis dicto domino A comite supradicto ex causa
+                    permutationis predicte <asset type="realEstate">quoddam hospicium situm in
+                            <placeName nymRef="#grana">castro de Grana</placeName> et <delimitation type="boundary">con<lb/>frontatur ab una parte cum quadam quarreria et
+                            ab alia cum quadam domo Andree Boissier et ab alia cum quadam domo
+                            Guillermi Boissier</delimitation>
+                    </asset>. Item recepi a vobis dicto<lb/> domino comite ex causa permutationis
+                    predicte <asset type="realEstate">totam unam condaminam sitam in <placeName nymRef="#grana">mandamento de Grana</placeName> que <placeName nymRef="#condamina_de_iasbroas">condamina de Iasbroas</placeName>
+                        vulgariter appelatur</asset> et <asset type="realEstate">unam terram<lb/>
+                        sitam in <placeName nymRef="#grana">eodem mandamento</placeName> qui condam
+                        fuit <persName nymRef="#eustachius_de_mastra" role="mentioned">Eustachii de
+                            Mastra</persName>
+                    </asset> et <asset type="realEstate">unum ortum qui condam fuit <persName nymRef="#giraudus_esteve" role="mentioned">Giraudi Esteve</persName>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="6">sex denarios</measure> censuales cum
+                        dominio quos percipi<lb/>ebatis in <asset type="realEstate">quodam orto
+                                <persName nymRef="#andreas_de_benna" role="mentioned">Andree de
+                                Benna</persName>
+                        </asset> cum prope dicto orto contiguo</asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="2">duo sesteria</measure> frumenti que
+                        facit <persName nymRef="#moutonus_de_Grana" role="mentioned">Moutonus de
+                            Grana</persName> pro <asset type="realEstate">terra qua habet <placeName nymRef="#alassestairaas">Alassestairaas</placeName>
+                        </asset>
+                    </asset> et<lb/>
+                    <asset type="rents">
+                        <measure unit="hemina" quantity="3">tres eminas</measure> quas facit
+                            <persName nymRef="#martinus_jordas" role="mentioned">Martinus
+                            Jordas</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#alassestairaas">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">unam eminam</measure> qua facit
+                            <persName nymRef="#guillermus_andreas" role="mentioned">Guillermus
+                            Andreas</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#alassestairaas">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">aliam eminam</measure> qua faciunt
+                            <persName nymRef="#liberi_falcois" role="mentioned">liberi<lb/>
+                            Falcois</persName> pro <asset type="realEstate">quadam terra qua habent
+                                <placeName nymRef="#alassestairaas">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="2">duo sestaria</measure> que facit
+                            <persName nymRef="#johannes_girbens" role="mentioned">Johannes
+                            Girbens</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#alassestairaas">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">unam eminam</measure> qua faciunt
+                            <persName role="mentioned" nymRef="#liberi_petri_berbeier">liberi
+                                <persName nymRef="#petrus_berbeier" role="mentioned">Petri
+                                Berbeier</persName>
+                        </persName> pro <asset type="realEstate">terra qua<lb/> habent <placeName nymRef="#alassestairaas">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">aliam</measure> qua <persName nymRef="#liberi_petri_berbeier" role="mentioned"/>faciunt pro <asset type="realEstate">manso de <placeName nymRef="#beuna">Beuna</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="3">tres eminas</measure> quas facit
+                            <persName nymRef="#bernardus_lagrania" role="mentioned">Bernardus
+                            Lagrania</persName> pro <asset type="realEstate">terra qua habet in
+                                <placeName nymRef="#beuna">predicto loco</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="1">unum sestarium</measure> et <measure unit="hemina" quantity="0.5">dimi<lb/>diam eminam</measure> quod et qua
+                        faciunt <persName nymRef="#liescheutier" role="mentioned">Liescheutier</persName> pro <asset type="realEstate">terra qua habent
+                                <placeName nymRef="#ataissona">Ataissona</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="1">aliud sestiarium</measure> et
+                            <measure unit="hemina" quantity="0.5">dimidiam eminam</measure> quod et
+                        qua faciunt <persName nymRef="#liberbier" role="mentioned">Liberbier</persName> pro <asset type="realEstate">terra qua habent<lb/>
+                            <placeName nymRef="#ataissona">Ataissona</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">unam eminam</measure> qua facit
+                            <persName nymRef="#stephanus_berbiers" role="mentioned">Stephanus
+                            Berbiers</persName> de <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#ataissona">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">aliam eminam</measure> qua facit
+                            <persName nymRef="#giraudatus" role="mentioned">Giraudatus</persName> de
+                            <asset type="realEstate">terra qua habet <placeName nymRef="#ataissona">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">aliam eminam</measure> qua fa<lb/>ciunt
+                            <persName nymRef="#li_cau" role="mentioned">li Cau</persName> pro <asset type="realEstate">terra qua habent <placeName nymRef="#ataissona">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">amplius <measure unit="solidus_viennensium" quantity="5">quinque solidos viennensium</measure> quos faciunt predicti
+                        videlicet <persName nymRef="#liescheutier" role="mentioned">Liescheutier</persName> et <persName nymRef="#liberbier" role="mentioned">Liberbeier</persName> et <persName nymRef="#stephanus_berbiers" role="mentioned">Stephanus
+                            Berbeiers</persName> et <persName nymRef="#li_cau" role="mentioned">Licau</persName>
+                        <lb/> pro <asset type="realEstate">terris</asset> quas habent <placeName nymRef="#ataissona">ibidem</placeName>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="18">XVIII denarios</measure> quos facit
+                            <persName nymRef="#guillermus_de_sentro" role="mentioned">Guillermus de
+                            Sentro</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#asserrelonc">Asserrelonc</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="1">unum sestarium</measure> quod facit
+                            <persName nymRef="#jordana_bertranta" role="mentioned">Jordana
+                            Bertranta</persName> pro <asset type="realEstate">terra qua habet in
+                                <placeName nymRef="#riparia_guanete">riparia
+                                Gua<lb/>nete</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="1">aliud sestarium</measure> quod facit
+                            <persName nymRef="#guillermus_dalmas" role="mentioned">Guillermus
+                            Dalmas</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#riparia_guanete">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">unam eminam</measure> qua facit
+                            <persName nymRef="#brindors" role="mentioned">Brindors</persName> pro
+                            <asset type="realEstate">terra qua habet <placeName nymRef="#riparia_guanete">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">aliam eminam</measure> qua facit
+                            <persName nymRef="#marinacs" role="mentioned">Marinacs</persName> pro
+                            <asset type="realEstate">terra qua<lb/> habet <placeName nymRef="#riparia_guanete">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="3">tres eminas</measure> quas facit
+                            <persName nymRef="#poncius_boissieira" role="mentioned">Poncius
+                            Boissieira</persName> pro <asset type="realEstate">manso de <placeName nymRef="#beuna">Beuna</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="3">alias tres eminas</measure> quas facit
+                            <persName nymRef="#bontosius_saramans" role="mentioned">Bontosius
+                            Saramans</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#beuna">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">unam eminam</measure> qua facit
+                            <persName nymRef="#bostacius_lemonniers" role="mentioned">Bos<lb/>tacius
+                            Lemonniers</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#beuna">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">unam eminam</measure> qua faciunt
+                            <persName nymRef="#sysmons_de_beuna" role="mentioned">Sysmons de
+                            Beuna</persName> et <persName nymRef="#martinus_pelavilas" role="mentioned">Martinus Pelavilas</persName> pro <asset type="realEstate">terris quas habent <placeName nymRef="#beuna">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="1">unum sestarium</measure> quod facit
+                            <persName nymRef="#bontosius_de_tervas" role="mentioned">Bonto<lb/>sius
+                            de Tervas</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#beuna">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="hemina" quantity="1">unam eminam</measure> qua facit
+                            <persName nymRef="#bossas" role="mentioned">Bossas</persName> pro <asset type="realEstate">terra qua habet <placeName nymRef="#alassestairaas">Alassestairaas</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="sextarium" quantity="1">unum sestarium</measure> quod facit
+                            <persName nymRef="#marinacs" role="mentioned">Marinacs</persName> pro
+                            <asset type="realEstate">terra qua habet <placeName nymRef="#alassestairaas">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="solidus" quantity="3">tres soli<lb/>dos</measure> quos facit
+                            <persName nymRef="#sysmons_de_beuna" role="mentioned">Sysmons de
+                            Beuna</persName> pro <asset type="realEstate">terra qua habet <placeName nymRef="#altoinet">Altoinet subtus <placeName nymRef="#chabrela">Chabrela</placeName>
+                            </placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="18">XVIII denarios</measure> quos facit
+                            <persName nymRef="#andreas_boissiers" role="mentioned">Andreas
+                            Boissiers</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#altoinet">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="18">alios XVIII denarios</measure> quos
+                        facit <persName nymRef="#li_bossa_de_chabrela" role="mentioned">li Bossa
+                            de<lb/> Chabrela</persName> pro <asset type="realEstate">terra qua habet
+                                <placeName nymRef="#altoinet">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="5">quinque denarios</measure> et <measure unit="obolus" quantity="1">obolum</measure> quos facit <persName nymRef="#aynardus" role="mentioned">Aynardus</persName> pro <asset type="realEstate">quadam vinea qua habet <placeName nymRef="#alalavuencha">Alalavuencha</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="6">sex denarios</measure> quos facit
+                            <persName nymRef="#sysmons_de_beuna" role="mentioned">Sysmons de
+                            Beuna</persName> pro <asset type="realEstate">quodam chana<lb/>berio
+                            quod habet <placeName nymRef="#alalavuencha">ibidem</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="6">sex denarios</measure> quos facit
+                            <persName nymRef="#stephanus_de_laclansta" role="mentioned">Stephanus de
+                            Laclansta</persName> pro <asset type="realEstate">quodam vinali quod
+                            habet <placeName nymRef="#apesratassa">Apesratassa</placeName>
+                        </asset>
+                    </asset> et <asset type="rents">
+                        <measure unit="denarius" quantity="6">VI denarios</measure> quos facit
+                            <persName nymRef="#johannes_diuctans" role="mentioned">Johannes
+                            Diuctans</persName> pro <asset type="realEstate">alio vinali quod habet<lb/>
+                            <placeName nymRef="#apesratassa">ibidem</placeName>
+                        </asset>
+                    </asset>
+                </diploPart>. <diploPart type="explaClause">Et <relation name="vas" active="#poncius_de_malves" passive="#ademarus_III_de_pictavia">est sciendum
+                        quod omnia et singula supradicta teneo a vobis dicto domino A comite Valan.
+                        in feudo et meum homagium ligium vobis facio et fidelitatem super sancta
+                        dei<lb/> euvangelia juro</relation>
+                </diploPart>. <diploPart type="explaClause">Et si contigeret hedificari seu construi
+                    tarim seu aliquod hedificium in <placeName nymRef="#mota">dicta Mota
+                        d'Astaisa</placeName> seu <placeName nymRef="#astaisa">mandamento
+                        d'Astaisa</placeName>, illam tarim seu illud hedificium de<lb/>beo vobis
+                    reddere iratus et pacatus, quecumque et quotienscumque a vobis seu vostro certo
+                    nuntio fuero requisitus, et inde debeo vos jurare de placito et de guerra<lb/>
+                    contra omnes personas</diploPart>; promitens per me et omnes successores meos
+                bona fide et sub obligatione omnium bonorum meorum sacrosanctis euvangeliis a me
+                corporaliter manu<lb/>tactis vobis domino A comiti supradicto recipienti pro vobis
+                et successoribus vostris universa et singula supradicta attendere et numquam
+                contravenire set semper inviolabiliter observare beneficias omni<lb/> actioni et
+                exceptioni doli et in factum et omni juri canonico et civili usus consuetudini et
+                statuto et juri dicenti quod rescindatur contractus si deceptos intervenerit ultra
+                dimidiam justi<lb/> precii vel quod precium impleatur et legi detentus generalem
+                renuntiationem non valere et omnibus aliis per que possent predicta in aliquo
+                irritari. <diploPart type="datatio">Acta sunt hec <issued>apud <placeName nymRef="#grana">Granam</placeName> in <placeName nymRef="#aula_castri_grane">aula castri</placeName>
+                        <date when="1261-10-28">die veneris ante festum<lb/> omnium sanctorum, anno
+                            domini Mo CCo LXIo</date>
+                    </issued>
+                </diploPart>, hiis testibus presentibus ad hoc vocatis et rogatis <persName role="witness" nymRef="#petrus_de_grana">Petro de Grana <roleName nymRef="#petrus_de_grana">milite</roleName>
+                </persName>, <persName role="witness" nymRef="#petrus_de_sancto_genesio">Petro de
+                    Sancto Genesio monacho</persName>, <persName nymRef="#johannes" role="witness">domino Johanne judice</persName>, <persName role="witness" nymRef="#petrus_belo">Petro Belo</persName>, <persName role="witness" nymRef="#petrus_malater">Petro Maleter</persName>, <persName role="witness" nymRef="#petrus_de_sancto_medardo">Petro de<lb/> Sancto Medardo</persName>,
+                    <persName role="witness" nymRef="#philippus_odone">Philippe Odone</persName>,
+                    <persName role="witness" nymRef="#falctis_barreira">Falctem Barreira</persName>,
+                    <persName role="witness" nymRef="#johannes_lamota">Johanne Lamota</persName>,
+                    <persName role="witness" nymRef="#johannes_faure">Johanne Faure</persName>,
+                    <persName role="witness" nymRef="#poncius_de_banio">Poncio de Banio</persName>,
+                    <persName role="witness" nymRef="#petrus_lacgerii">Petro Lacgerii</persName>,
+                    <persName role="witness" nymRef="#petrus_baiulus_de_grana">Petro Baiuli de
+                    Grana</persName>, <persName role="witness" nymRef="#au_del_roure">Au. Del
+                    Roure</persName>, <persName role="witness" nymRef="#petrus_clergue">Petro
+                    Clergue</persName> et ego <persName nymRef="#bermundus_notarius" role="notary">Bermundus<lb/> publicus notarii dicti domini comitis</persName> hiis omnibus
+                presens fui et mandato ipsius domini comitis et Poncii de Malves presentem cartam
+                scripsi et signo meo signavi (seing) inter rei<lb/> testimonium et ad majorem
+                firmitatem omnium predictorum nos <persName nymRef="#ademarus_III_de_pictavia" role="sigillant">A comes Valan.</persName> predictus et <persName role="sigillant" nymRef="#poncius_de_malves">dictus Poncius de Malves</persName>
+                presenti carte sigilla nostra diximus<lb/> apponenda.</p>
+        </body>
+    </text>
+</TEI>

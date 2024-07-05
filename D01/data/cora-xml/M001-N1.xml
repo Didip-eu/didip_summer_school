@@ -1,0 +1,1526 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE text SYSTEM "cora-xml.dtd">
+<text id="M001">
+  <header>
+    <text>Ad equum errehet</text>
+    <abbr_ddd>Ad equum errehet</abbr_ddd>
+    <abbr_mwb>-</abbr_mwb>
+    <topic>Religion, Alltag</topic>
+    <text-type>Segen</text-type>
+    <genre>PV</genre>
+    <reference>Edition</reference>
+    <reference-secondary>Handschrift</reference-secondary>
+    <library>Paris, Bibl. Nationale</library>
+    <library-shelfmark>Ms. nouv. acq. lat. 229</library-shelfmark>
+    <online>http://www.handschriftencensus.de/11468</online>
+    <medium>Handschrift</medium>
+    <extent>10r,13-20</extent>
+    <extract>-</extract>
+    <language>mhd</language>
+    <language-type>mitteldeutsch</language-type>
+    <language-region>westmitteldeutsch</language-region>
+    <language-area>rheinfränkisch</language-area>
+    <place>-</place>
+    <time>12</time>
+    <notes-manuscript>-</notes-manuscript>
+    <date>11-12</date>
+    <text-place>-</text-place>
+    <text-author>-</text-author>
+    <text-language>-</text-language>
+    <text-source>-</text-source>
+    <edition>Elias von Steinmeyer (Hg.), Die kleineren althochdeutschen Sprachdenkmäler, Berlin 1916,  Nr. 66,2</edition>
+    <corpus>ReM I</corpus>
+    <notes-transcription>-</notes-transcription>
+    <notes-annotation>-</notes-annotation>
+    <digitization_by>Lukas Loevenich (Bonn)</digitization_by>
+    <collation_by>Lukas Loevenich (Bonn)</collation_by>
+    <pre_editing_by>Lukas Loevenich (Bonn)</pre_editing_by>
+    <annotation_by>Thomas Klein (Bonn) [u.B.v. R-M.S.Heffner, A Word-Index to the Texts of Steinmeyer ... 1961]</annotation_by>
+    <proofreading_by>Thomas Klein (Bonn)</proofreading_by>
+  </header>
+  <layoutinfo>
+    <page id="p1" no="2" range="c1"/>
+    <column id="c1" range="l1..l16"/>
+    <line id="l1" name="0" range="t1_d1..t3_d1" loc="2a,0"/>
+    <line id="l2" name="1" range="t4_d1..t8_d1" loc="2a,1"/>
+    <line id="l3" name="2" range="t9_d1..t13_d1" loc="2a,2"/>
+    <line id="l4" name="3" range="t14_d1..t18_d1" loc="2a,3"/>
+    <line id="l5" name="4" range="t19_d1..t22_d1" loc="2a,4"/>
+    <line id="l6" name="5" range="t23_d1..t24_d1" loc="2a,5"/>
+    <line id="l7" name="6" range="t25_d1..t27_d1" loc="2a,6"/>
+    <line id="l8" name="7" range="t28_d1..t32_d1" loc="2a,7"/>
+    <line id="l9" name="8" range="t33_d1..t37_d1" loc="2a,8"/>
+    <line id="l10" name="9" range="t38_d1..t43_d1" loc="2a,9"/>
+    <line id="l11" name="10" range="t44_d1..t49_d1" loc="2a,10"/>
+    <line id="l12" name="11" range="t50_d1..t55_d1" loc="2a,11"/>
+    <line id="l13" name="12" range="t56_d1..t60_d1" loc="2a,12"/>
+    <line id="l14" name="13" range="t61_d1..t74_d1" loc="2a,13"/>
+    <line id="l15" name="14" range="t75_d1..t91_d1" loc="2a,14"/>
+    <line id="l16" name="15" range="t92_d1..t100_d1" loc="2a,15"/>
+  </layoutinfo>
+  <shifttags>
+    <quote range="t23_m1..t26_m2"/>
+    <quote range="t28_m1..t36_m1"/>
+    <quote range="t38_m1..t60_m2"/>
+    <paren range="t75_m1..t90_m1"/>
+    <quote range="t72_m1..t99_m1"/>
+  </shifttags>
+  <token id="t1" trans="Ad" type="token">
+    <tok_dipl id="t1_d1" trans="Ad" utf="Ad"/>
+    <tok_anno ascii="Ad" id="t1_m1" trans="Ad" utf="Ad">
+      <norm tag="--"/>
+      <lemma tag="ad"/>
+      <lemma_gen tag="ad"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="APPR"/>
+      <pos_gen tag="FM"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <comment type="K">/L[+]</comment>
+  <token id="t2" trans="equu\-" type="token">
+    <tok_dipl id="t2_d1" trans="equu\-" utf="equū"/>
+    <tok_anno ascii="equun" id="t2_m1" trans="equu\-" utf="equū">
+      <norm tag="--"/>
+      <lemma tag="equus"/>
+      <lemma_gen tag="equus"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="NA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Akk.Sg"/>
+      <inflClass tag="Masc"/>
+      <inflClass_gen tag="Masc"/>
+    </tok_anno>
+  </token>
+  <comment type="K">/L[@]</comment>
+  <token id="t3" trans="erre\,het(.)" type="token">
+    <tok_dipl id="t3_d1" trans="erre\,het" utf="erręhet"/>
+    <tok_anno ascii="errehet" id="t3_m1" trans="erre\,het" utf="erręhet">
+      <norm tag="erræhet"/>
+      <lemma tag="er-ræhen"/>
+      <lemma_gen tag="er-ræhen"/>
+      <lemma_idmwb tag="???"/>
+      <pos tag="ADJN"/>
+      <pos_gen tag="VVPP"/>
+      <infl tag=".Masc.Akk.Sg.0"/>
+      <inflClass tag="wk"/>
+      <inflClass_gen tag="wk"/>
+      <punc tag="DE"/>
+    </tok_anno>
+  </token>
+  <token id="t4" trans="*(M*)an" type="token">
+    <tok_dipl id="t4_d1" trans="*(M*)an" utf="Man"/>
+    <tok_anno ascii="Man" id="t4_m1" trans="*(M*)an" utf="Man">
+      <norm tag="man"/>
+      <lemma tag="mann"/>
+      <lemma_gen tag="mann"/>
+      <lemma_idmwb tag="107373000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="st.Masc"/>
+      <inflClass_gen tag="st.Masc"/>
+    </tok_anno>
+  </token>
+  <token id="t5" trans="gieng" type="token">
+    <tok_dipl id="t5_d1" trans="gieng" utf="gieng"/>
+    <tok_anno ascii="gieng" id="t5_m1" trans="gieng" utf="gieng">
+      <norm tag="gienc"/>
+      <lemma tag="gân"/>
+      <lemma_gen tag="gân"/>
+      <lemma_idmwb tag="46788000"/>
+      <pos tag="VVFIN"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Ind.Past.Sg.3"/>
+      <inflClass tag="irr"/>
+      <inflClass_gen tag="irr"/>
+    </tok_anno>
+  </token>
+  <token id="t6" trans="after" type="token">
+    <tok_dipl id="t6_d1" trans="after" utf="after"/>
+    <tok_anno ascii="after" id="t6_m1" trans="after" utf="after">
+      <norm tag="after"/>
+      <lemma tag="after"/>
+      <lemma_gen tag="after"/>
+      <lemma_idmwb tag="2904000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t7" trans="wege,," type="token">
+    <tok_dipl id="t7_d1" trans="wege" utf="wege"/>
+    <tok_anno ascii="wege" id="t7_m1" trans="wege" utf="wege">
+      <norm tag="wege"/>
+      <lemma tag="wëg"/>
+      <lemma_gen tag="wëg"/>
+      <lemma_idmwb tag="223380000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Dat.Sg"/>
+      <inflClass tag="st.Masc"/>
+      <inflClass_gen tag="st.Masc"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t8" trans="." type="punc">
+    <tok_dipl id="t8_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t8_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t9" trans="zoh" type="token">
+    <tok_dipl id="t9_d1" trans="zoh" utf="zoh"/>
+    <tok_anno ascii="zoh" id="t9_m1" trans="zoh" utf="zoh">
+      <norm tag="zôch"/>
+      <lemma tag="zièhen"/>
+      <lemma_gen tag="zièhen"/>
+      <lemma_idmwb tag="238263000"/>
+      <pos tag="VVFIN"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Ind.Past.Sg.3"/>
+      <inflClass tag="st2b"/>
+      <inflClass_gen tag="st2b"/>
+    </tok_anno>
+  </token>
+  <token id="t10" trans="$in" type="token">
+    <tok_dipl id="t10_d1" trans="$in" utf="ſin"/>
+    <tok_anno ascii="sin" id="t10_m1" trans="$in" utf="ſin">
+      <norm tag="sîn"/>
+      <lemma tag="sîn"/>
+      <lemma_gen tag="sîn"/>
+      <lemma_idmwb tag="150153000"/>
+      <pos tag="DPOSA"/>
+      <pos_gen tag="DPOS"/>
+      <infl tag="Neut.Akk.Sg.0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t11" trans="Ro$" type="token">
+    <tok_dipl id="t11_d1" trans="Ro$" utf="Roſ"/>
+    <tok_anno ascii="Ros" id="t11_m1" trans="Ro$" utf="Roſ">
+      <norm tag="ros"/>
+      <lemma tag="ross"/>
+      <lemma_gen tag="ross"/>
+      <lemma_idmwb tag="136374000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Akk.Sg"/>
+      <inflClass tag="st.Neut"/>
+      <inflClass_gen tag="st.Neut"/>
+    </tok_anno>
+  </token>
+  <token id="t12" trans="in||handon(.)" type="token">
+    <tok_dipl id="t12_d1" trans="inhandon" utf="inhandon"/>
+    <tok_anno ascii="in" id="t12_m1" trans="in|" utf="in">
+      <norm tag="in"/>
+      <token_type tag="MS1"/>
+      <lemma tag="in"/>
+      <lemma_gen tag="in"/>
+      <lemma_idmwb tag="81741000"/>
+      <pos tag="APPR"/>
+      <pos_gen tag="AP"/>
+      <infl tag="c.D"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+    <tok_anno ascii="handon" id="t12_m2" trans="|handon" utf="handon">
+      <norm tag="handen"/>
+      <token_type tag="MS2"/>
+      <lemma tag="hant"/>
+      <lemma_gen tag="hant"/>
+      <lemma_idmwb tag="68277000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Dat.Pl"/>
+      <inflClass tag="st(u).Fem"/>
+      <inflClass_gen tag="st(u).Fem"/>
+      <punc tag="DE"/>
+    </tok_anno>
+  </token>
+  <token id="t13" trans="." type="punc">
+    <tok_dipl id="t13_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t13_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+      <punc tag="$E"/>
+    </tok_anno>
+  </token>
+  <token id="t14" trans="do" type="token">
+    <tok_dipl id="t14_d1" trans="do" utf="do"/>
+    <tok_anno ascii="do" id="t14_m1" trans="do" utf="do">
+      <norm tag="dô"/>
+      <lemma tag="dô"/>
+      <lemma_gen tag="dô"/>
+      <lemma_idmwb tag="31164000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD-KO"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t15" trans="begagenda" type="token">
+    <tok_dipl id="t15_d1" trans="begagenda" utf="begagenda"/>
+    <tok_anno ascii="begagenda" id="t15_m1" trans="begagenda" utf="begagenda">
+      <norm tag="begegente"/>
+      <lemma tag="be-gègenen"/>
+      <lemma_gen tag="be-gègenen"/>
+      <lemma_idmwb tag="12711000"/>
+      <pos tag="VVFIN"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Ind.Past.Sg.3"/>
+      <inflClass tag="wk"/>
+      <inflClass_gen tag="wk"/>
+    </tok_anno>
+  </token>
+  <token id="t16" trans="imo" type="token">
+    <tok_dipl id="t16_d1" trans="imo" utf="imo"/>
+    <tok_anno ascii="imo" id="t16_m1" trans="imo" utf="imo">
+      <norm tag="ime"/>
+      <lemma tag="ër"/>
+      <lemma_gen tag="ër"/>
+      <lemma_idmwb tag="40380000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Masc.Dat.Sg.3"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t17" trans="min" type="token">
+    <tok_dipl id="t17_d1" trans="min" utf="min"/>
+    <tok_anno ascii="min" id="t17_m1" trans="min" utf="min">
+      <norm tag="mîn"/>
+      <lemma tag="mîn"/>
+      <lemma_gen tag="mîn"/>
+      <lemma_idmwb tag="112026000"/>
+      <pos tag="DPOSA"/>
+      <pos_gen tag="DPOS"/>
+      <infl tag="Masc.Nom.Sg.0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t18" trans="trohtin" type="token">
+    <tok_dipl id="t18_d1" trans="trohtin" utf="trohtin"/>
+    <tok_anno ascii="trohtin" id="t18_m1" trans="trohtin" utf="trohtin">
+      <norm tag="truhtîn"/>
+      <lemma tag="truhtîn"/>
+      <lemma_gen tag="truhtîn"/>
+      <lemma_idmwb tag="172329000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="st.Masc"/>
+      <inflClass_gen tag="st.Masc"/>
+    </tok_anno>
+  </token>
+  <token id="t19" trans="mit" type="token">
+    <tok_dipl id="t19_d1" trans="mit" utf="mit"/>
+    <tok_anno ascii="mit" id="t19_m1" trans="mit" utf="mit">
+      <norm tag="mit"/>
+      <lemma tag="mit"/>
+      <lemma_gen tag="mit"/>
+      <lemma_idmwb tag="113898000"/>
+      <pos tag="APPR"/>
+      <pos_gen tag="AP"/>
+      <infl tag="c.D"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t20" trans="$inero" type="token">
+    <tok_dipl id="t20_d1" trans="$inero" utf="ſinero"/>
+    <tok_anno ascii="sinero" id="t20_m1" trans="$inero" utf="ſinero">
+      <norm tag="sînere"/>
+      <lemma tag="sîn"/>
+      <lemma_gen tag="sîn"/>
+      <lemma_idmwb tag="150153000"/>
+      <pos tag="DPOSA"/>
+      <pos_gen tag="DPOS"/>
+      <infl tag="Fem.Dat.Sg.st"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t21" trans="arngrihte(:)" type="token">
+    <tok_dipl id="t21_d1" trans="arngrihte" utf="arngrihte"/>
+    <tok_anno ascii="arngrihte" id="t21_m1" trans="arngrihte" utf="arngrihte">
+      <norm tag="êrngrehte"/>
+      <lemma tag="êr(e)-grëhte"/>
+      <lemma_gen tag="êr(e)-grëhte"/>
+      <lemma_idmwb tag="???"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Dat.Sg"/>
+      <inflClass tag="st.Fem"/>
+      <inflClass_gen tag="*.Fem"/>
+      <punc tag="DE"/>
+    </tok_anno>
+  </token>
+  <token id="t22" trans="." type="punc">
+    <tok_dipl id="t22_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t22_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+      <punc tag="$E"/>
+    </tok_anno>
+  </token>
+  <token id="t23" trans="&quot;we$||man" type="token">
+    <tok_dipl id="t23_d1" trans="we$man" utf="weſman"/>
+    <tok_anno ascii="wes" id="t23_m1" trans="we$|" utf="weſ">
+      <norm tag="wes"/>
+      <token_type tag="MS1"/>
+      <lemma tag="wër"/>
+      <lemma_gen tag="wër"/>
+      <lemma_idmwb tag="224919000"/>
+      <pos tag="PW"/>
+      <pos_gen tag="PW"/>
+      <infl tag="Neut.Gen.Sg.st"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+    <tok_anno ascii="man" id="t23_m2" trans="|man" utf="man">
+      <norm tag="man"/>
+      <token_type tag="MS2"/>
+      <lemma tag="mann"/>
+      <lemma_gen tag="mann"/>
+      <lemma_idmwb tag="107373000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="st.Masc"/>
+      <inflClass_gen tag="st.Masc"/>
+    </tok_anno>
+  </token>
+  <token id="t24" trans="ge$||tu(?)" type="token">
+    <tok_dipl id="t24_d1" trans="ge$tu" utf="geſtu"/>
+    <tok_anno ascii="ges" id="t24_m1" trans="ge$|" utf="geſ">
+      <norm tag="gês"/>
+      <token_type tag="MS1"/>
+      <lemma tag="gân"/>
+      <lemma_gen tag="gân"/>
+      <lemma_idmwb tag="46788000"/>
+      <pos tag="VVFIN"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Ind.Pres.Sg.2"/>
+      <inflClass tag="irr"/>
+      <inflClass_gen tag="irr"/>
+    </tok_anno>
+    <tok_anno ascii="tu" id="t24_m2" trans="|tu" utf="tu">
+      <norm tag="dû"/>
+      <token_type tag="MS2"/>
+      <lemma tag="dû"/>
+      <lemma_gen tag="dû"/>
+      <lemma_idmwb tag="32607000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Nom.Sg.2"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="QE"/>
+    </tok_anno>
+  </token>
+  <token id="t25" trans="z||u|ne" type="token">
+    <tok_dipl id="t25_d1" trans="zune" utf="zune"/>
+    <tok_anno ascii="z" id="t25_m1" trans="z|" utf="z">
+      <norm tag="zuo"/>
+      <token_type tag="MS1"/>
+      <lemma tag="ze"/>
+      <lemma_gen tag="ze"/>
+      <lemma_idmwb tag="235656000"/>
+      <pos tag="APPR"/>
+      <pos_gen tag="AP"/>
+      <infl tag="c.D"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+    <tok_anno ascii="u" id="t25_m2" trans="|u" utf="u">
+      <norm tag="wiu"/>
+      <token_type tag="MS2"/>
+      <lemma tag="wër"/>
+      <lemma_gen tag="wër"/>
+      <lemma_idmwb tag="224919000"/>
+      <pos tag="PW"/>
+      <pos_gen tag="PW"/>
+      <infl tag="Neut.Instr.Sg.st"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+    <tok_anno ascii="ne" id="t25_m3" trans="|ne" utf="ne">
+      <norm tag="ne"/>
+      <token_type tag="MS3"/>
+      <lemma tag="ne"/>
+      <lemma_gen tag="ne"/>
+      <lemma_idmwb tag="119841000"/>
+      <pos tag="PTKNEG"/>
+      <pos_gen tag="PTK"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t26" trans="ride$||tu(?)&quot;" type="token">
+    <tok_dipl id="t26_d1" trans="ride$tu" utf="rideſtu"/>
+    <tok_anno ascii="rides" id="t26_m1" trans="ride$|" utf="rideſ">
+      <norm tag="rîtes"/>
+      <token_type tag="MS1"/>
+      <lemma tag="rîten"/>
+      <lemma_gen tag="rîten"/>
+      <lemma_idmwb tag="135450000"/>
+      <pos tag="VVFIN"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Ind.Pres.Sg.2"/>
+      <inflClass tag="st1a"/>
+      <inflClass_gen tag="st1a"/>
+    </tok_anno>
+    <tok_anno ascii="tu" id="t26_m2" trans="|tu" utf="tu">
+      <norm tag="dû"/>
+      <token_type tag="MS2"/>
+      <lemma tag="dû"/>
+      <lemma_gen tag="dû"/>
+      <lemma_idmwb tag="32607000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Nom.Sg.2"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="QE"/>
+    </tok_anno>
+  </token>
+  <token id="t27" trans="." type="punc">
+    <tok_dipl id="t27_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t27_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+      <punc tag="$E"/>
+    </tok_anno>
+  </token>
+  <token id="t28" trans="&quot;waz" type="token">
+    <tok_dipl id="t28_d1" trans="waz" utf="waz"/>
+    <tok_anno ascii="waz" id="t28_m1" trans="waz" utf="waz">
+      <norm tag="waz"/>
+      <lemma tag="wazz"/>
+      <lemma_gen tag="wazz"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t29" trans="mag" type="token">
+    <tok_dipl id="t29_d1" trans="mag" utf="mag"/>
+    <tok_anno ascii="mag" id="t29_m1" trans="mag" utf="mag">
+      <norm tag="mac"/>
+      <lemma tag="mügen"/>
+      <lemma_gen tag="mügen"/>
+      <lemma_idmwb tag="116097000"/>
+      <pos tag="VMFIN"/>
+      <pos_gen tag="VM"/>
+      <infl tag="Ind.Pres.Sg.1"/>
+      <inflClass tag="prpr"/>
+      <inflClass_gen tag="prpr"/>
+    </tok_anno>
+  </token>
+  <token id="t30" trans="ih" type="token">
+    <tok_dipl id="t30_d1" trans="ih" utf="ih"/>
+    <tok_anno ascii="ih" id="t30_m1" trans="ih" utf="ih">
+      <norm tag="ich"/>
+      <lemma tag="ich"/>
+      <lemma_gen tag="ich"/>
+      <lemma_idmwb tag="81210000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Nom.Sg.1"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t31" trans="riten(?)" type="token">
+    <tok_dipl id="t31_d1" trans="riten" utf="riten"/>
+    <tok_anno ascii="riten" id="t31_m1" trans="riten" utf="riten">
+      <norm tag="rîten"/>
+      <lemma tag="rîten"/>
+      <lemma_gen tag="rîten"/>
+      <lemma_idmwb tag="135450000"/>
+      <pos tag="VVINF"/>
+      <pos_gen tag="VV"/>
+      <infl tag="--"/>
+      <inflClass tag="st1a"/>
+      <inflClass_gen tag="st1a"/>
+      <punc tag="QE"/>
+    </tok_anno>
+  </token>
+  <token id="t32" trans="." type="punc">
+    <tok_dipl id="t32_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t32_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+      <punc tag="$E"/>
+    </tok_anno>
+  </token>
+  <token id="t33" trans="min" type="token">
+    <tok_dipl id="t33_d1" trans="min" utf="min"/>
+    <tok_anno ascii="min" id="t33_m1" trans="min" utf="min">
+      <norm tag="mîn"/>
+      <lemma tag="mîn"/>
+      <lemma_gen tag="mîn"/>
+      <lemma_idmwb tag="112026000"/>
+      <pos tag="DPOSA"/>
+      <pos_gen tag="DPOS"/>
+      <infl tag="Neut.Nom.Sg.0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t34" trans="ro$" type="token">
+    <tok_dipl id="t34_d1" trans="ro$" utf="roſ"/>
+    <tok_anno ascii="ros" id="t34_m1" trans="ro$" utf="roſ">
+      <norm tag="ros"/>
+      <lemma tag="ross"/>
+      <lemma_gen tag="ross"/>
+      <lemma_idmwb tag="136374000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="st.Neut"/>
+      <inflClass_gen tag="st.Neut"/>
+    </tok_anno>
+  </token>
+  <token id="t35" trans="i$t" type="token">
+    <tok_dipl id="t35_d1" trans="i$t" utf="iſt"/>
+    <tok_anno ascii="ist" id="t35_m1" trans="i$t" utf="iſt">
+      <norm tag="ist"/>
+      <lemma tag="sîn"/>
+      <lemma_gen tag="sîn"/>
+      <lemma_idmwb tag="150147000"/>
+      <pos tag="VAFIN"/>
+      <pos_gen tag="VA"/>
+      <infl tag="Ind.Pres.Sg.3"/>
+      <inflClass tag="irr"/>
+      <inflClass_gen tag="irr"/>
+    </tok_anno>
+  </token>
+  <token id="t36" trans="erre\,het(.)&quot;" type="token">
+    <tok_dipl id="t36_d1" trans="erre\,het" utf="erręhet"/>
+    <tok_anno ascii="errehet" id="t36_m1" trans="erre\,het" utf="erręhet">
+      <norm tag="erræhet"/>
+      <lemma tag="er-ræhen"/>
+      <lemma_gen tag="er-ræhen"/>
+      <lemma_idmwb tag="???"/>
+      <pos tag="VVPP"/>
+      <pos_gen tag="VV"/>
+      <infl tag="--"/>
+      <inflClass tag="wk"/>
+      <inflClass_gen tag="wk"/>
+      <punc tag="DE"/>
+    </tok_anno>
+  </token>
+  <token id="t37" trans="." type="punc">
+    <tok_dipl id="t37_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t37_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+      <punc tag="$E"/>
+    </tok_anno>
+  </token>
+  <token id="t38" trans="&quot;nu" type="token">
+    <tok_dipl id="t38_d1" trans="nu" utf="nu"/>
+    <tok_anno ascii="nu" id="t38_m1" trans="nu" utf="nu">
+      <norm tag="nû"/>
+      <lemma tag="nû"/>
+      <lemma_gen tag="nû"/>
+      <lemma_idmwb tag="122703000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD-KO"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t39" trans="ziuh" type="token">
+    <tok_dipl id="t39_d1" trans="ziuh" utf="ziuh"/>
+    <tok_anno ascii="ziuh" id="t39_m1" trans="ziuh" utf="ziuh">
+      <norm tag="ziuch"/>
+      <lemma tag="zièhen"/>
+      <lemma_gen tag="zièhen"/>
+      <lemma_idmwb tag="238263000"/>
+      <pos tag="VVIMP"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Sg.2"/>
+      <inflClass tag="st2b"/>
+      <inflClass_gen tag="st2b"/>
+    </tok_anno>
+  </token>
+  <token id="t40" trans="ez" type="token">
+    <tok_dipl id="t40_d1" trans="ez" utf="ez"/>
+    <tok_anno ascii="ez" id="t40_m1" trans="ez" utf="ez">
+      <norm tag="ez"/>
+      <lemma tag="ër"/>
+      <lemma_gen tag="ër"/>
+      <lemma_idmwb tag="40380000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Neut.Akk.Sg.3"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t41" trans="da" type="token">
+    <tok_dipl id="t41_d1" trans="da" utf="da"/>
+    <tok_anno ascii="da" id="t41_m1" trans="da" utf="da">
+      <norm tag="dâ"/>
+      <lemma tag="dâr"/>
+      <lemma_gen tag="dâr"/>
+      <lemma_idmwb tag="28932000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t42" trans="bi||fiere,," type="token">
+    <tok_dipl id="t42_d1" trans="bifiere" utf="bifiere"/>
+    <tok_anno ascii="bi" id="t42_m1" trans="bi|" utf="bi">
+      <norm tag="bî"/>
+      <token_type tag="MS1"/>
+      <lemma tag="bî"/>
+      <lemma_gen tag="bî"/>
+      <lemma_idmwb tag="19761000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+    <tok_anno ascii="fiere" id="t42_m2" trans="|fiere" utf="fiere">
+      <norm tag="viere"/>
+      <token_type tag="MS2"/>
+      <lemma tag="vière"/>
+      <lemma_gen tag="vière"/>
+      <lemma_idmwb tag="???"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Dat.Sg"/>
+      <inflClass tag="st.Fem"/>
+      <inflClass_gen tag="*.Fem"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <comment type="K">/%.[ahd. fiera 'Seite'; L-]</comment>
+  <token id="t43" trans="." type="punc">
+    <tok_dipl id="t43_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t43_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t44" trans="tu" type="token">
+    <tok_dipl id="t44_d1" trans="tu" utf="tu"/>
+    <tok_anno ascii="tu" id="t44_m1" trans="tu" utf="tu">
+      <norm tag="dû"/>
+      <lemma tag="dû"/>
+      <lemma_gen tag="dû"/>
+      <lemma_idmwb tag="32607000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Nom.Sg.2"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t45" trans="rune||imo" type="token">
+    <tok_dipl id="t45_d1" trans="runeimo" utf="runeimo"/>
+    <tok_anno ascii="rune" id="t45_m1" trans="rune|" utf="rune">
+      <norm tag="rûne"/>
+      <token_type tag="MS1"/>
+      <lemma tag="rûnen"/>
+      <lemma_gen tag="rûnen"/>
+      <lemma_idmwb tag="138042000"/>
+      <pos tag="VVIMP"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Sg.2"/>
+      <inflClass tag="wk"/>
+      <inflClass_gen tag="wk"/>
+    </tok_anno>
+    <tok_anno ascii="imo" id="t45_m2" trans="|imo" utf="imo">
+      <norm tag="ime"/>
+      <token_type tag="MS2"/>
+      <lemma tag="ër"/>
+      <lemma_gen tag="ër"/>
+      <lemma_idmwb tag="40380000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Neut.Dat.Sg.3"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t46" trans="in" type="token">
+    <tok_dipl id="t46_d1" trans="in" utf="in"/>
+    <tok_anno ascii="in" id="t46_m1" trans="in" utf="in">
+      <norm tag="in"/>
+      <lemma tag="in"/>
+      <lemma_gen tag="in"/>
+      <lemma_idmwb tag="81741000"/>
+      <pos tag="APPR"/>
+      <pos_gen tag="AP"/>
+      <infl tag="c.A"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t47" trans="daz" type="token">
+    <tok_dipl id="t47_d1" trans="daz" utf="daz"/>
+    <tok_anno ascii="daz" id="t47_m1" trans="daz" utf="daz">
+      <norm tag="daz"/>
+      <lemma tag="dër"/>
+      <lemma_gen tag="dër"/>
+      <lemma_idmwb tag="29817000"/>
+      <pos tag="DDART"/>
+      <pos_gen tag="DD"/>
+      <infl tag="Neut.Akk.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t48" trans="ora,," type="token">
+    <tok_dipl id="t48_d1" trans="ora" utf="ora"/>
+    <tok_anno ascii="ora" id="t48_m1" trans="ora" utf="ora">
+      <norm tag="oere"/>
+      <lemma tag="oère"/>
+      <lemma_gen tag="oère"/>
+      <lemma_idmwb tag="124374000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Akk.Sg"/>
+      <inflClass tag="st.Neut"/>
+      <inflClass_gen tag="st.Neut"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t49" trans="." type="punc">
+    <tok_dipl id="t49_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t49_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t50" trans="drit" type="token">
+    <tok_dipl id="t50_d1" trans="drit" utf="drit"/>
+    <tok_anno ascii="drit" id="t50_m1" trans="drit" utf="drit">
+      <norm tag="trit"/>
+      <lemma tag="trëten"/>
+      <lemma_gen tag="trëten"/>
+      <lemma_idmwb tag="171024000"/>
+      <pos tag="VVIMP"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Sg.2"/>
+      <inflClass tag="st5"/>
+      <inflClass_gen tag="st5"/>
+    </tok_anno>
+  </token>
+  <token id="t51" trans="ez" type="token">
+    <tok_dipl id="t51_d1" trans="ez" utf="ez"/>
+    <tok_anno ascii="ez" id="t51_m1" trans="ez" utf="ez">
+      <norm tag="ez"/>
+      <lemma tag="ër"/>
+      <lemma_gen tag="ër"/>
+      <lemma_idmwb tag="40380000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Neut.Akk.Sg.3"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t52" trans="an||den" type="token">
+    <tok_dipl id="t52_d1" trans="anden" utf="anden"/>
+    <tok_anno ascii="an" id="t52_m1" trans="an|" utf="an">
+      <norm tag="an"/>
+      <token_type tag="MS1"/>
+      <lemma tag="ane"/>
+      <lemma_gen tag="ane"/>
+      <lemma_idmwb tag="5691000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+    <tok_anno ascii="den" id="t52_m2" trans="|den" utf="den">
+      <norm tag="den"/>
+      <token_type tag="MS2"/>
+      <lemma tag="dër"/>
+      <lemma_gen tag="dër"/>
+      <lemma_idmwb tag="29817000"/>
+      <pos tag="DDART"/>
+      <pos_gen tag="DD"/>
+      <infl tag="Masc.Akk.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t53" trans="ce$ewen" type="token">
+    <tok_dipl id="t53_d1" trans="ce$ewen" utf="ceſewen"/>
+    <tok_anno ascii="cesewen" id="t53_m1" trans="ce$ewen" utf="ceſewen">
+      <norm tag="zeswen"/>
+      <lemma tag="zësw"/>
+      <lemma_gen tag="zësw"/>
+      <lemma_idmwb tag="237987000"/>
+      <pos tag="ADJA"/>
+      <pos_gen tag="ADJ"/>
+      <infl tag="Pos.Masc.Akk.Sg.*"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t54" trans="fuoz(;)" type="token">
+    <tok_dipl id="t54_d1" trans="fuoz" utf="fuoz"/>
+    <tok_anno ascii="fuoz" id="t54_m1" trans="fuoz" utf="fuoz">
+      <norm tag="vuoz"/>
+      <lemma tag="vuoz"/>
+      <lemma_gen tag="vuoz"/>
+      <lemma_idmwb tag="218250000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Akk.Sg"/>
+      <inflClass tag="st(u).Masc"/>
+      <inflClass_gen tag="st(u).Masc"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t55" trans="." type="punc">
+    <tok_dipl id="t55_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t55_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t56" trans="$o" type="token">
+    <tok_dipl id="t56_d1" trans="$o" utf="ſo"/>
+    <tok_anno ascii="so" id="t56_m1" trans="$o" utf="ſo">
+      <norm tag="sô"/>
+      <lemma tag="sô"/>
+      <lemma_gen tag="sô"/>
+      <lemma_idmwb tag="154164000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD-KO"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t57" trans="wirt" type="token">
+    <tok_dipl id="t57_d1" trans="wirt" utf="wirt"/>
+    <tok_anno ascii="wirt" id="t57_m1" trans="wirt" utf="wirt">
+      <norm tag="wirdet"/>
+      <lemma tag="wërden"/>
+      <lemma_gen tag="wërden"/>
+      <lemma_idmwb tag="225138000"/>
+      <pos tag="VAFIN"/>
+      <pos_gen tag="VA"/>
+      <infl tag="Ind.Pres.Sg.3"/>
+      <inflClass tag="st3b"/>
+      <inflClass_gen tag="st3b"/>
+    </tok_anno>
+  </token>
+  <token id="t58" trans="imo" type="token">
+    <tok_dipl id="t58_d1" trans="imo" utf="imo"/>
+    <tok_anno ascii="imo" id="t58_m1" trans="imo" utf="imo">
+      <norm tag="ime"/>
+      <lemma tag="ër"/>
+      <lemma_gen tag="ër"/>
+      <lemma_idmwb tag="40380000"/>
+      <pos tag="PPER"/>
+      <pos_gen tag="PPER"/>
+      <infl tag="Neut.Dat.Sg.3"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t59" trans="de$" type="token">
+    <tok_dipl id="t59_d1" trans="de$" utf="deſ"/>
+    <tok_anno ascii="des" id="t59_m1" trans="de$" utf="deſ">
+      <norm tag="des"/>
+      <lemma tag="dër"/>
+      <lemma_gen tag="dër"/>
+      <lemma_idmwb tag="29817000"/>
+      <pos tag="DDART"/>
+      <pos_gen tag="DD"/>
+      <infl tag="Neut.Gen.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t60" trans="erræheten||bu\oz(.)&quot;" type="token">
+    <tok_dipl id="t60_d1" trans="erræhetenbu\oz" utf="erræhetenbuͦz"/>
+    <tok_anno ascii="erraeheten" id="t60_m1" trans="erræheten|" utf="erræheten">
+      <norm tag="erræhet"/>
+      <token_type tag="MS1"/>
+      <lemma tag="er-ræhen"/>
+      <lemma_gen tag="er-ræhen"/>
+      <lemma_idmwb tag="???"/>
+      <pos tag="ADJS"/>
+      <pos_gen tag="VVPP"/>
+      <infl tag="Pos.Neut.Gen.Sg.wk"/>
+      <inflClass tag="wk"/>
+      <inflClass_gen tag="wk"/>
+    </tok_anno>
+    <tok_anno ascii="buoz" id="t60_m2" trans="|bu\oz" utf="buͦz">
+      <norm tag="buoz"/>
+      <token_type tag="MS2"/>
+      <lemma tag="buoz"/>
+      <lemma_gen tag="buoz"/>
+      <lemma_idmwb tag="27477000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="st.Masc,Fem"/>
+      <inflClass_gen tag="st.Masc,Fem"/>
+      <punc tag="DE"/>
+    </tok_anno>
+  </token>
+  <token id="t61" trans="Pat\-" type="token">
+    <tok_dipl id="t61_d1" trans="Pat\-" utf="Pat̄"/>
+    <tok_anno ascii="Paten" id="t61_m1" trans="Pat\-" utf="Pat̄">
+      <norm tag="--"/>
+      <lemma tag="pater"/>
+      <lemma_gen tag="pater"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="NA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="Masc"/>
+      <inflClass_gen tag="Masc"/>
+    </tok_anno>
+  </token>
+  <comment type="K">/L[+]</comment>
+  <token id="t62" trans="nr\-,," type="token">
+    <tok_dipl id="t62_d1" trans="nr\-" utf="nr̄"/>
+    <tok_anno ascii="nren" id="t62_m1" trans="nr\-" utf="nr̄">
+      <norm tag="--"/>
+      <lemma tag="noster"/>
+      <lemma_gen tag="noster"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="DIA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Masc.Nom.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t63" trans="." type="punc">
+    <tok_dipl id="t63_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t63_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t64" trans="&amp;" type="token">
+    <tok_dipl id="t64_d1" trans="&amp;" utf="&amp;"/>
+    <tok_anno ascii="&amp;" id="t64_m1" trans="&amp;" utf="&amp;">
+      <norm tag="--"/>
+      <lemma tag="et"/>
+      <lemma_gen tag="et"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="KON"/>
+      <pos_gen tag="FM"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t65" trans="terge" type="token">
+    <tok_dipl id="t65_d1" trans="terge" utf="terge"/>
+    <tok_anno ascii="terge" id="t65_m1" trans="terge" utf="terge">
+      <norm tag="--"/>
+      <lemma tag="tergere"/>
+      <lemma_gen tag="tergere"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="VVIMP"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Sg.2"/>
+      <inflClass tag="v"/>
+      <inflClass_gen tag="v"/>
+    </tok_anno>
+  </token>
+  <token id="t66" trans="crura" type="token">
+    <tok_dipl id="t66_d1" trans="crura" utf="crura"/>
+    <tok_anno ascii="crura" id="t66_m1" trans="crura" utf="crura">
+      <norm tag="--"/>
+      <lemma tag="crus"/>
+      <lemma_gen tag="crus"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="NA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Akk.Pl"/>
+      <inflClass tag="Neut"/>
+      <inflClass_gen tag="Neut"/>
+    </tok_anno>
+  </token>
+  <token id="t67" trans="ei%9" type="token">
+    <tok_dipl id="t67_d1" trans="ei%9" utf="eiꝰ"/>
+    <tok_anno ascii="eius" id="t67_m1" trans="ei%9" utf="eiꝰ">
+      <norm tag="--"/>
+      <lemma tag="is"/>
+      <lemma_gen tag="is"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="DIA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Masc.Gen.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t68" trans="&amp;" type="token">
+    <tok_dipl id="t68_d1" trans="&amp;" utf="&amp;"/>
+    <tok_anno ascii="&amp;" id="t68_m1" trans="&amp;" utf="&amp;">
+      <norm tag="--"/>
+      <lemma tag="et"/>
+      <lemma_gen tag="et"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="KON"/>
+      <pos_gen tag="FM"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t69" trans="pede$" type="token">
+    <tok_dipl id="t69_d1" trans="pede$" utf="pedeſ"/>
+    <tok_anno ascii="pedes" id="t69_m1" trans="pede$" utf="pedeſ">
+      <norm tag="--"/>
+      <lemma tag="pes"/>
+      <lemma_gen tag="pes"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="NA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Akk.Pl"/>
+      <inflClass tag="Masc"/>
+      <inflClass_gen tag="Masc"/>
+    </tok_anno>
+  </token>
+  <token id="t70" trans="dicen$(:)" type="token">
+    <tok_dipl id="t70_d1" trans="dicen$" utf="dicenſ"/>
+    <tok_anno ascii="dicens" id="t70_m1" trans="dicen$" utf="dicenſ">
+      <norm tag="--"/>
+      <lemma tag="dicere"/>
+      <lemma_gen tag="dicere"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="FM"/>
+      <pos_gen tag="FM"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="DE"/>
+    </tok_anno>
+  </token>
+  <comment type="K">/L[@]</comment>
+  <token id="t71" trans="." type="punc">
+    <tok_dipl id="t71_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t71_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+      <punc tag="$E"/>
+    </tok_anno>
+  </token>
+  <token id="t72" trans="&quot;al$o" type="token">
+    <tok_dipl id="t72_d1" trans="al$o" utf="alſo"/>
+    <tok_anno ascii="also" id="t72_m1" trans="al$o" utf="alſo">
+      <norm tag="alsô"/>
+      <lemma tag="all-sô"/>
+      <lemma_gen tag="all-sô"/>
+      <lemma_idmwb tag="4629000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD-KO"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t73" trans="$ciero" type="token">
+    <tok_dipl id="t73_d1" trans="$ciero" utf="ſciero"/>
+    <tok_anno ascii="sciero" id="t73_m1" trans="$ciero" utf="ſciero">
+      <norm tag="schiere"/>
+      <lemma tag="schière"/>
+      <lemma_gen tag="schière"/>
+      <lemma_idmwb tag="143451000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t74" trans="werde" type="token">
+    <tok_dipl id="t74_d1" trans="werde" utf="werde"/>
+    <tok_anno ascii="werde" id="t74_m1" trans="werde" utf="werde">
+      <norm tag="werde"/>
+      <lemma tag="wërden"/>
+      <lemma_gen tag="wërden"/>
+      <lemma_idmwb tag="225138000"/>
+      <pos tag="VAFIN"/>
+      <pos_gen tag="VA"/>
+      <infl tag="Subj.Pres.Sg.3"/>
+      <inflClass tag="st3b"/>
+      <inflClass_gen tag="st3b"/>
+    </tok_anno>
+  </token>
+  <token id="t75" trans="di$emo,,(" type="token">
+    <tok_dipl id="t75_d1" trans="di$emo" utf="diſemo"/>
+    <tok_anno ascii="disemo" id="t75_m1" trans="di$emo" utf="diſemo">
+      <norm tag="diseme"/>
+      <lemma tag="dise"/>
+      <lemma_gen tag="dise"/>
+      <lemma_idmwb tag="30921000"/>
+      <pos tag="DDA"/>
+      <pos_gen tag="DD"/>
+      <infl tag="Neut.Dat.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t76" trans="cui%9cu\-q\_" type="token">
+    <tok_dipl id="t76_d1" trans="cui%9cu\-q\_" utf="cuiꝰcūq̲"/>
+    <tok_anno ascii="cuiuscunq" id="t76_m1" trans="cui%9cu\-q\_" utf="cuiꝰcūq̲">
+      <norm tag="--"/>
+      <lemma tag="quicumque"/>
+      <lemma_gen tag="quicumque"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="DIA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Masc.Gen.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <comment type="K">/L[+]</comment>
+  <token id="t77" trans="colori$" type="token">
+    <tok_dipl id="t77_d1" trans="colori$" utf="coloriſ"/>
+    <tok_anno ascii="coloris" id="t77_m1" trans="colori$" utf="coloriſ">
+      <norm tag="--"/>
+      <lemma tag="color"/>
+      <lemma_gen tag="color"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="NA"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Gen.Sg"/>
+      <inflClass tag="Masc"/>
+      <inflClass_gen tag="Masc"/>
+    </tok_anno>
+  </token>
+  <token id="t78" trans="$it,," type="token">
+    <tok_dipl id="t78_d1" trans="$it" utf="ſit"/>
+    <tok_anno ascii="sit" id="t78_m1" trans="$it" utf="ſit">
+      <norm tag="--"/>
+      <lemma tag="esse"/>
+      <lemma_gen tag="esse"/>
+      <lemma_idmwb tag="--"/>
+      <pos tag="VVFIN"/>
+      <pos_gen tag="FM"/>
+      <infl tag="Subj.Pres.Sg.3"/>
+      <inflClass tag="v"/>
+      <inflClass_gen tag="v"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <comment type="K">/L[@]</comment>
+  <token id="t79" trans="." type="punc">
+    <tok_dipl id="t79_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t79_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t80" trans="rot,," type="token">
+    <tok_dipl id="t80_d1" trans="rot" utf="rot"/>
+    <tok_anno ascii="rot" id="t80_m1" trans="rot" utf="rot">
+      <norm tag="rôt"/>
+      <lemma tag="rôt"/>
+      <lemma_gen tag="rôt"/>
+      <lemma_idmwb tag="136938000"/>
+      <pos tag="ADJD"/>
+      <pos_gen tag="ADJ"/>
+      <infl tag="Pos....0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t81" trans="." type="punc">
+    <tok_dipl id="t81_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t81_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t82" trans="$uarz,," type="token">
+    <tok_dipl id="t82_d1" trans="$uarz" utf="ſuarz"/>
+    <tok_anno ascii="suarz" id="t82_m1" trans="$uarz" utf="ſuarz">
+      <norm tag="swarz"/>
+      <lemma tag="swarz"/>
+      <lemma_gen tag="swarz"/>
+      <lemma_idmwb tag="164742000"/>
+      <pos tag="ADJD"/>
+      <pos_gen tag="ADJ"/>
+      <infl tag="Pos....0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t83" trans="." type="punc">
+    <tok_dipl id="t83_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t83_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t84" trans="blanc,," type="token">
+    <tok_dipl id="t84_d1" trans="blanc" utf="blanc"/>
+    <tok_anno ascii="blanc" id="t84_m1" trans="blanc" utf="blanc">
+      <norm tag="blanc"/>
+      <lemma tag="blank"/>
+      <lemma_gen tag="blank"/>
+      <lemma_idmwb tag="21768000"/>
+      <pos tag="ADJD"/>
+      <pos_gen tag="ADJ"/>
+      <infl tag="Pos....0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t85" trans="." type="punc">
+    <tok_dipl id="t85_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t85_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t86" trans="ualo,," type="token">
+    <tok_dipl id="t86_d1" trans="ualo" utf="ualo"/>
+    <tok_anno ascii="ualo" id="t86_m1" trans="ualo" utf="ualo">
+      <norm tag="vale"/>
+      <lemma tag="valw"/>
+      <lemma_gen tag="valw"/>
+      <lemma_idmwb tag="197790000"/>
+      <pos tag="ADJD"/>
+      <pos_gen tag="ADJ"/>
+      <infl tag="Pos....0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t87" trans="." type="punc">
+    <tok_dipl id="t87_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t87_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t88" trans="gri$el,," type="token">
+    <tok_dipl id="t88_d1" trans="gri$el" utf="griſel"/>
+    <tok_anno ascii="grisel" id="t88_m1" trans="gri$el" utf="griſel">
+      <norm tag="grîsel"/>
+      <lemma tag="grîsel"/>
+      <lemma_gen tag="grîsel"/>
+      <lemma_idmwb tag="???"/>
+      <pos tag="ADJD"/>
+      <pos_gen tag="ADJ"/>
+      <infl tag="Pos....0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t89" trans="." type="punc">
+    <tok_dipl id="t89_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t89_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t90" trans="feh,,)" type="token">
+    <tok_dipl id="t90_d1" trans="feh" utf="feh"/>
+    <tok_anno ascii="feh" id="t90_m1" trans="feh" utf="feh">
+      <norm tag="vêch"/>
+      <lemma tag="vêh"/>
+      <lemma_gen tag="vêh"/>
+      <lemma_idmwb tag="198801000"/>
+      <pos tag="ADJD"/>
+      <pos_gen tag="ADJ"/>
+      <infl tag="Pos....0"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t91" trans="." type="punc">
+    <tok_dipl id="t91_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t91_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+    </tok_anno>
+  </token>
+  <token id="t92" trans="ro$$e" type="token">
+    <tok_dipl id="t92_d1" trans="ro$$e" utf="roſſe"/>
+    <tok_anno ascii="rosse" id="t92_m1" trans="ro$$e" utf="roſſe">
+      <norm tag="rosse"/>
+      <lemma tag="ross"/>
+      <lemma_gen tag="ross"/>
+      <lemma_idmwb tag="136374000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Dat.Sg"/>
+      <inflClass tag="st.Neut"/>
+      <inflClass_gen tag="st.Neut"/>
+    </tok_anno>
+  </token>
+  <token id="t93" trans="de$" type="token">
+    <tok_dipl id="t93_d1" trans="de$" utf="deſ"/>
+    <tok_anno ascii="des" id="t93_m1" trans="de$" utf="deſ">
+      <norm tag="des"/>
+      <lemma tag="dër"/>
+      <lemma_gen tag="dër"/>
+      <lemma_idmwb tag="29817000"/>
+      <pos tag="DDART"/>
+      <pos_gen tag="DD"/>
+      <infl tag="Neut.Gen.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t94" trans="erræhoten||bu\oz,," type="token">
+    <tok_dipl id="t94_d1" trans="erræhotenbu\oz" utf="erræhotenbuͦz"/>
+    <tok_anno ascii="erraehoten" id="t94_m1" trans="erræhoten|" utf="erræhoten">
+      <norm tag="erræheten"/>
+      <token_type tag="MS1"/>
+      <lemma tag="er-ræhen"/>
+      <lemma_gen tag="er-ræhen"/>
+      <lemma_idmwb tag="???"/>
+      <pos tag="ADJS"/>
+      <pos_gen tag="VVPP"/>
+      <infl tag="Pos.Neut.Gen.Sg.wk"/>
+      <inflClass tag="wk"/>
+      <inflClass_gen tag="wk"/>
+    </tok_anno>
+    <tok_anno ascii="buoz" id="t94_m2" trans="|bu\oz" utf="buͦz">
+      <norm tag="buoz"/>
+      <token_type tag="MS2"/>
+      <lemma tag="buoz"/>
+      <lemma_gen tag="buoz"/>
+      <lemma_idmwb tag="27477000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="st.Masc,Fem"/>
+      <inflClass_gen tag="st.Masc,Fem"/>
+      <punc tag="S*"/>
+    </tok_anno>
+  </token>
+  <token id="t95" trans="$amo" type="token">
+    <tok_dipl id="t95_d1" trans="$amo" utf="ſamo"/>
+    <tok_anno ascii="samo" id="t95_m1" trans="$amo" utf="ſamo">
+      <norm tag="same"/>
+      <lemma tag="sam(e)"/>
+      <lemma_gen tag="sam(e)"/>
+      <lemma_idmwb tag="139716000"/>
+      <pos tag="KO*"/>
+      <pos_gen tag="KO"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t96" trans="demo" type="token">
+    <tok_dipl id="t96_d1" trans="demo" utf="demo"/>
+    <tok_anno ascii="demo" id="t96_m1" trans="demo" utf="demo">
+      <norm tag="deme"/>
+      <lemma tag="dër"/>
+      <lemma_gen tag="dër"/>
+      <lemma_idmwb tag="29823000"/>
+      <pos tag="DRELS"/>
+      <pos_gen tag="DD"/>
+      <infl tag="Neut.Dat.Sg"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t97" trans="got" type="token">
+    <tok_dipl id="t97_d1" trans="got" utf="got"/>
+    <tok_anno ascii="got" id="t97_m1" trans="got" utf="got">
+      <norm tag="got"/>
+      <lemma tag="got"/>
+      <lemma_gen tag="got"/>
+      <lemma_idmwb tag="63291000"/>
+      <pos tag="NA"/>
+      <pos_gen tag="NA"/>
+      <infl tag="Nom.Sg"/>
+      <inflClass tag="st.Masc"/>
+      <inflClass_gen tag="st.Masc"/>
+    </tok_anno>
+  </token>
+  <token id="t98" trans="da||$elbo" type="token">
+    <tok_dipl id="t98_d1" trans="da$elbo" utf="daſelbo"/>
+    <tok_anno ascii="da" id="t98_m1" trans="da|" utf="da">
+      <norm tag="dâ"/>
+      <token_type tag="MS1"/>
+      <lemma tag="dâr"/>
+      <lemma_gen tag="dâr"/>
+      <lemma_idmwb tag="28932000"/>
+      <pos tag="AVD"/>
+      <pos_gen tag="AVD"/>
+      <infl tag="--"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+    <tok_anno ascii="selbo" id="t98_m2" trans="|$elbo" utf="ſelbo">
+      <norm tag="selbe"/>
+      <token_type tag="MS2"/>
+      <lemma tag="sëlb"/>
+      <lemma_gen tag="sëlb"/>
+      <lemma_idmwb tag="147849000"/>
+      <pos tag="DDD"/>
+      <pos_gen tag="DD"/>
+      <infl tag="Masc.Nom.Sg.wk"/>
+      <inflClass tag="--"/>
+      <inflClass_gen tag="--"/>
+    </tok_anno>
+  </token>
+  <token id="t99" trans="bu\ozta(.)&quot;" type="token">
+    <tok_dipl id="t99_d1" trans="bu\ozta" utf="buͦzta"/>
+    <tok_anno ascii="buozta" id="t99_m1" trans="bu\ozta" utf="buͦzta">
+      <norm tag="buozte"/>
+      <lemma tag="büèzen"/>
+      <lemma_gen tag="büèzen"/>
+      <lemma_idmwb tag="26847000"/>
+      <pos tag="VVFIN"/>
+      <pos_gen tag="VV"/>
+      <infl tag="Ind.Past.Sg.3"/>
+      <inflClass tag="wk"/>
+      <inflClass_gen tag="wk"/>
+      <punc tag="DE"/>
+    </tok_anno>
+  </token>
+  <token id="t100" trans="." type="punc">
+    <tok_dipl id="t100_d1" trans="." utf="."/>
+    <tok_anno ascii="." id="t100_m1" trans="." utf=".">
+      <pos tag="$_"/>
+      <pos_gen tag="$_"/>
+      <punc tag="$E"/>
+    </tok_anno>
+  </token>
+</text>
