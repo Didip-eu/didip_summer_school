@@ -1,4 +1,4 @@
-# DiDip (From Digital to Distant Diplomatics)
+# DiDip (From Digital to Distant Diplomatics) ☀️ Summer School 🏖️
 
 ## Structure
 - Each day is dedicated to a specific theme (e.g., D01 - Introduction)
