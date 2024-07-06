@@ -1,6 +1,6 @@
 # Dataset Overview: `mom_1000_sample.tsv`
 
-This dataset is a sample of 1000 entries from a larger collection of historical texts, potentially charters. It provides a rich resource for various Natural Language Processing (NLP) tasks, particularly in the context of historical text analysis and teaching. This sample includes machine-translated abstracts in English, adding another dimension for NLP exploration.
+This dataset is a sample of 1000 entries (500 German (dialect/era not diffenciated), 500 Latin) from a larger collection of historical texts, potentially charters. It provides a rich resource for various Natural Language Processing (NLP) tasks, particularly in the context of historical text analysis and teaching. This sample includes machine-translated abstracts in English, adding another dimension for NLP exploration.
 
 ## Dataset Structure
 
