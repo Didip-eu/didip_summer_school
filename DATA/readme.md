@@ -12,9 +12,9 @@ The dataset is stored in a tab-separated values (TSV) file named `mom_1000_sampl
 | `place`                       | Location associated with the text entry (if available, e.g., "Rom")                    | Object   |
 | `year`                        | Year the text entry was created (e.g., "1402")                                           | Int64    |
 | `lang`                        | Language of the text ('lat' for Latin, 'de' for German)                    | Object   |
-| `text`                        | Full text content (e.g., Bonifatius episcopus, servus servorum dei, ad futuram rei memoriam. Sincere devocionis affectus, ...)                                                           | Object   |
+| `text`                        | Full text content (e.g., "Bonifatius episcopus, servus servorum dei, ad futuram rei memoriam. Sincere devocionis affectus," ...)                                                           | Object   |
 | `abstract`                    | Abstract or summary of the text (in original language)                    | Object   |
-| `abstract_lang`               | Language of the abstract ('de' for German, 'lat' for Latin)               | Object   |
+| `abstract_lang`               | Language of the abstract ("de" for German, "lat" for Latin)               | Object   |
 | `translated_abstract_opus`    | Machine-translated version of the abstract with Opus (in English)                 | Object   |
 
 * There are marginal missing values in the dataset.
