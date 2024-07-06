@@ -8,13 +8,13 @@ The dataset is stored in a tab-separated values (TSV) file named `mom_1000_sampl
 
 | Column Name                   | Description                                                               | Data Type |
 | :---------------------------- | :------------------------------------------------------------------------ | :------- |
-| `atom_id`                     | Unique identifier for each text entry (e.g., "AT-StiAG/GoettweigOSB/1402_IV_13"	)                                    | Object   |
-| `place`                       | Location associated with the text entry (if available, e.g., "Rom")                    | Object   |
-| `year`                        | Year the text entry was created (e.g., "1402")                                           | Int64    |
-| `lang`                        | Language of the text ('lat' for Latin, 'de' for German)                    | Object   |
-| `text`                        | Full text content (e.g., "Bonifatius episcopus, servus servorum dei, ad futuram rei memoriam. Sincere devocionis affectus," ...)                                                           | Object   |
+| `atom_id`                     | Unique identifier for each text entry (e.g., "_AT-StiAG/GoettweigOSB/1402_IV_13_"	)                                    | Object   |
+| `place`                       | Location associated with the text entry (if available, e.g., "_Rom_")                    | Object   |
+| `year`                        | Year the text entry was created (e.g., "_1402_")                                           | Int64    |
+| `lang`                        | Language of the text ('_lat_' for Latin, '_de_' for German)                    | Object   |
+| `text`                        | Full text content (e.g., "_Bonifatius episcopus, servus servorum dei, ad futuram rei memoriam. Sincere devocionis affectus,_" ...)                                                           | Object   |
 | `abstract`                    | Abstract or summary of the text (in original language)                    | Object   |
-| `abstract_lang`               | Language of the abstract ("de" for German, "lat" for Latin)               | Object   |
+| `abstract_lang`               | Language of the abstract ("_de_" for German, "_lat_" for Latin)               | Object   |
 | `translated_abstract_opus`    | Machine-translated version of the abstract with Opus (in English)                 | Object   |
 
 * There are marginal missing values in the dataset.
