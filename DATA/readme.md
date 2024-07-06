@@ -1,4 +1,6 @@
-# Dataset Overview: `mom_1000_sample.tsv`
+# Dataset Overview
+
+## mom_1000_sample.tsv
 
 This dataset is a sample of 1000 entries (500 German (dialect/era not diffenciated), 500 Latin) from a larger collection of historical texts, potentially charters. It provides a rich resource for various Natural Language Processing (NLP) tasks, particularly in the context of historical text analysis and teaching. This sample includes machine-translated abstracts in English, adding another dimension for NLP exploration.
 
@@ -22,6 +24,30 @@ The dataset is stored in a tab-separated values (TSV) file named `mom_1000_sampl
 * The languages of the texts are either Latin (`lat`) or German (`de`), and the abstracts are predominantly in German (`de`).
 * The years range from 816 to 1752, representing a broad historical time frame.
 * The dataset includes a new column `translated_abstract_opus` with English translations of the abstracts.
+
+## vulgate_sample_1000.tsv
+
+This dataset is a sample of 1000 entries extracted from the Latin Vulgate Bible, a late 4th-century Latin translation of the Bible.
+
+# Dataset Overview: `mom_1000_sample.tsv`
+
+This dataset is a sample of 1000 entries extracted from the Latin Vulgate Bible, a late 4th-century Latin translation of the Bible. It provides a valuable resource for various Natural Language Processing (NLP) tasks, particularly in the context of historical text analysis and teaching. This sample includes both the original Latin text and English translations, opening avenues for multilingual NLP exploration.
+
+## Dataset Structure
+
+The dataset is stored in a tab-separated values (TSV) file named `mom_1000_sample.tsv`. Each row represents a single excerpt from the Vulgate Bible, and the columns provide metadata and content information:
+
+| Column Name                   | Description                                                                                     | Data Type |
+| :---------------------------- | :---------------------------------------------------------------------------------------------- | :------- |
+| `id`                     | Unique identifier for each text entry                                                          | Object   |
+| `text`                        | Original Latin text excerpt from the Vulgate                                                    | Object   |
+```
+
+**Initial Observations:**
+
+* There are no missing values in the dataset.
+* The datatypes are suitable for the respective columns.
+
 
 ## Applications
 
