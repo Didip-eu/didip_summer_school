@@ -15,7 +15,7 @@ The dataset is stored in a tab-separated values (TSV) file named `mom_1000_sampl
 | `text`                        | Full text content (e.g., "_Bonifatius episcopus, servus servorum dei, ad futuram rei memoriam. Sincere devocionis affectus,_" ...)                                                           | Object   |
 | `abstract`                    | Abstract or summary of the text (in original language)                    | Object   |
 | `abstract_lang`               | Language of the abstract ("_de_" for German, "_lat_" for Latin)               | Object   |
-| `translated_abstract_opus`    | Machine-translated version of the abstract with Opus (in English)                 | Object   |
+| `translated_abstract_opus`    | Machine-translated version of the abstract with Opus (in English) e.g. "_Pope Bonifaz IX confirms to Göttweig the right to hire to the incorporated parish Mautern..._"                | Object   |
 
 * There are marginal missing values in the dataset.
 * The datatypes are suitable for the respective columns.
