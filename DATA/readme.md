@@ -37,9 +37,8 @@ The dataset is stored in a tab-separated values (TSV) file named `mom_1000_sampl
 | :---------------------------- | :---------------------------------------------------------------------------------------------- | :------- |
 | `id`                     | Unique identifier for each text entry                                                          | Object   |
 | `text`                        | Original Latin text excerpt from the Vulgate                                                    | Object   |
-```
 
-**Initial Observations:**
+
 
 * There are no missing values in the dataset.
 * The datatypes are suitable for the respective columns.
