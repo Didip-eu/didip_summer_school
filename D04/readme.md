@@ -50,3 +50,5 @@ This course module covers text reuse and authorship analysis, focusing on techni
    - DataFrame processing
    - Creating MinHash
    - Comparing signatures
+
+In addition to the topics outlined above, this course module also covers advanced techniques for text reuse detection, such as the use of MinHash algorithms for efficient similarity estimation, which can be applied to identify common themes, detect plagiarism, and perform document similarity analysis across different text corpora.
