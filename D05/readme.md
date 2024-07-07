@@ -4,8 +4,7 @@ Axel Pichler (Univ. Stuttgart): Large Language Models
 - with Georg Vogeler
 - This concluding session will discuss the future directions of language models, particularly large language models (LLMs), emphasizing their evolving capabilities, ethical considerations, and potential impacts on various industries. Participants will explore cutting-edge developments, such as generative adversarial networks and reinforcement learning from human feedback, and discuss how these innovations could shape the next generation of AI applications.
 
-## You will learn
-
+## Content
 - How to use Large Language Models (LLMs): You will explore different ways to interact with high-quality generative AI models, including the widely known ChatGPT. Additionally, you will learn about the importance of prompt engineering and how to effectively craft prompts to guide the model's output.
 - Hugging Face and Transformers: You will be introduced to the Hugging Face platform and the Transformers library, which have become standard tools in the NLP community for deploying state-of-the-art models like BERT, T5, and Meta's LLaMA.
 - Quantization and Memory Management: You will learn about the importance of model quantization and its impact on memory usage, and explore techniques to optimize the deployment of LLMs on limited hardware resources.
