@@ -17,8 +17,8 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
    - Group discussion on annotation guidelines for various medieval corpora.
 
 3. **WHY: Why Do We Need Named Entity Recognition?**
-   - Applications of NER, such as index-building, named entity linking, relation extraction, and network analysis.
-   - Overview of existing annotation toolkits (Transkribus, Inception, TEI).
+   - Why do we do NER? - Information Extraction: Relation Extraction, Event Extraction, Coreference Resolution, Named Entity Linking, Knowledge Base Population
+   - Overview of existing annotation toolkits (Transkribus, Inception, Doccano).
    - Hands-on session on creating annotated data.
 
 4. **HOW: What is Named Entity Recognition?**
@@ -29,7 +29,7 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 
 ## Showcases
 
-- MOM-NER 
+- Information Extraction from German Medieval Charters Abstracts
 - Active Learning + NER for French Texts 
 - NER on Historical German and Ottoman Turkish Corpora 
 
