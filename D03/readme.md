@@ -1,5 +1,40 @@
 Day 3: Named Entity Recognition
 
 Ismail Prada (Univ. Bern): Named Entity Recognition
-- with Sandy Aoun and Selina Galka, Teaching Assistants: Roman Bleier, Florian Atzenhofer-Baumgartner, Niklas Tscherne, Nicolas Renet, Klara Venglarova
-- This session will explore Named Entity Recognition (NER), a crucial technique in natural language processing that identifies and classifies named entities in text into predefined categories such as persons, organizations, locations, and others. Participants will learn to implement and train NER models using popular libraries like spaCy and NLTK, and apply these models to extract structured information from unstructured text data.
+- with Sandy Aoun and Selina Galka
+  - Teaching Assistants: Roman Bleier, Florian Atzenhofer-Baumgartner, Niklas Tscherne, Nicolas Renet, Klara Venglarova
+
+## Overview
+
+This day-long session at the NLP for Medievalists School focuses on the topic of Named Entity Recognition (NER) for historical texts, particularly medieval documents. The session is covering the following topics:
+
+1. **General Introduction**
+   - Brief history of NER techniques, from rule-based to unsupervised and supervised approaches.
+
+2. **WHAT: What is a Named Entity?**
+   - Definitions and categories of named entities.
+   - Challenges in handling flat vs. nested named entities.
+   - Group discussion on annotation guidelines for various medieval corpora.
+
+3. **WHY: Why Do We Need Named Entity Recognition?**
+   - Applications of NER, such as index-building, named entity linking, relation extraction, and network analysis.
+   - Overview of existing annotation toolkits (Transkribus, Inception, TEI).
+   - Hands-on session on creating annotated data.
+
+4. **HOW: What is Named Entity Recognition?**
+   - Specific challenges in historical NER.
+   - Supervised sequence-to-sequence models (Flair, spaCy, Transformers) and their advantages/disadvantages.
+   - Evaluation metrics beyond just recall and precision.
+   - Hands-on session on fine-tuning NER models on historical data.
+
+## Showcases
+
+- MOM-NER 
+- Active Learning + NER for French Texts 
+- NER on Historical German and Ottoman Turkish Corpora 
+
+## Hands-On Sessions
+
+- Creating annotated data for NER
+- Adopting and fine-tuning existing NER frameworks (Flair, spaCy) on historical corpora
+- Applying NER models to participants' own data
