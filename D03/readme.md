@@ -1,4 +1,4 @@
-Day 3: Named Entity Recognition
+# Day 3: Named Entity Recognition
 
 Ismail **Prada** (Univ. Bern): Named Entity Recognition
 - with Sandy **Aoun** and Selina **Galka**
