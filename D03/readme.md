@@ -1,8 +1,8 @@
 Day 3: Named Entity Recognition
 
-Ismail Prada (Univ. Bern): Named Entity Recognition
-- with Sandy Aoun and Selina Galka
-  - Teaching Assistants: Roman Bleier, Florian Atzenhofer-Baumgartner, Niklas Tscherne, Nicolas Renet, Klara Venglarova
+Ismail **Prada** (Univ. Bern): Named Entity Recognition
+- with Sandy **Aoun** and Selina **Galka**
+  - Teaching Assistants: Roman **Bleier**, Florian **Atzenhofer-Baumgartner**, Niklas **Tscherne**, Nicolas **Renet**, Klara **Venglarova**
 
 ## Overview
 
@@ -16,9 +16,9 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
    - Challenges in handling flat vs. nested named entities.
    - Group discussion on annotation guidelines for various medieval corpora.
 
-3. **WHY: Why Do We Need Named Entity Recognition?**
+3. **WHY: Why Do We Do Named Entity Recognition?**
    - Why do we do NER? - Information Extraction: Relation Extraction, Event Extraction, Coreference Resolution, Named Entity Linking, Knowledge Base Population
-   - Overview of existing annotation toolkits (Transkribus, Inception, Doccano).
+   - Overview of existing annotation toolkits (Transkribus, Inception, Doccano)
    - Hands-on session on creating annotated data.
 
 4. **HOW: What is Named Entity Recognition?**
