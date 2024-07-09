@@ -8,6 +8,8 @@ Ismail **Prada** (Univ. Bern): Named Entity Recognition
 
 This day-long session at the NLP for Medievalists School focuses on the topic of Named Entity Recognition (NER) for historical texts, particularly medieval documents. The sessions will cover the following topics:
 
+### Session 1
+
 1. **General Introduction**
    - Brief Introduction of the Day's Instructors
    - Brief Look Into the Day's Program
