@@ -16,7 +16,7 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
    - Definitions and Types of Named Entities
    - Entity Boundary and Nested Entities
    - NE Tagging Formats
-   - Group discussion on existing NER annotated historical corpora
+   - Group Discussion on Existing NER Annotated Historical Corpora
 
 3. **First Scholarly Presentation:** Information Extraction from German Medieval Charters Abstracts
    
@@ -34,10 +34,10 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 
 7. **HOW: How to Do Named Entity Recognition?**
    - Bi-LSTM + CRF, Contextual Character Embeddings, Transformer Models (LLM)
-   - Model Architectures and Model Training Strategies
+   - Models Architecture and Models Training Strategies
    - NER Evaluation Metrics
    - Challenges in Dealing with Historical Data + Solutions
-   - Hands-on session:
+   - Hands-on Sessions:
        - Annotating Text with Flair
        - Apply Model to Your Own Data
          
