@@ -27,10 +27,10 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 4. **WHY: Why Do We Do Named Entity Recognition?**
    - Why do We do NER? - Information Extraction: Relation Extraction, Event Extraction, Coreference Resolution, Named Entity Linking, Knowledge Base Population
    - Dataset Annotation of NER Process:
-         - Annotation Guidelines for NER
-         - Annotation Toolkits for NER
-         - Hands-on Session on Creating Annotated Data:
-               - Inception Invitation Link: http://157.230.123.17:8080/p/summerschool/join-project/pDzNJc7l-V7qx7eP4jEk4w
+       - Annotation Guidelines for NER
+       - Annotation Toolkits for NER
+       - Hands-on Session on Creating Annotated Data:
+           - Inception Invitation Link: http://157.230.123.17:8080/p/summerschool/join-project/pDzNJc7l-V7qx7eP4jEk4w
 
 5. **Second Scholarly Presentation:** Digital Edition of the Memoirs of Countess Luise Charlotte von Schwerin (1684–1732). Application of Named Entity Recognition
 
