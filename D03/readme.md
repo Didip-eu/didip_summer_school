@@ -48,7 +48,7 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 
 ### Session 4
 
-8. **HOW: How to Do Named Entity Recognition?**
+7. **HOW: How to Do Named Entity Recognition?**
    - Hands-on Sessions:
        - Annotating Text with Flair (Continuing this Part)
        - Apply Model to Your Own Data
