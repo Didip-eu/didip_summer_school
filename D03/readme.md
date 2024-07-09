@@ -36,9 +36,9 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 
 ### Session 3
    
-7. **Third Scholarly Presentation:** Economies of Space. Practices, Discourses and Actors on the Basel Real Estate Market (1400-1700) 
+6. **Third Scholarly Presentation:** Economies of Space. Practices, Discourses and Actors on the Basel Real Estate Market (1400-1700) 
 
-8. **HOW: How to Do Named Entity Recognition?**
+7. **HOW: How to Do Named Entity Recognition?**
    - Bi-LSTM + CRF, Contextual Character Embeddings, Transformer Models (LLM)
    - Models Architecture and Models Training Strategies
    - NER Evaluation Metrics
