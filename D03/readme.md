@@ -10,13 +10,13 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 
 1. **General Introduction**
    - Brief Introduction of the Day's Instructors
-   - Brief Look into the Day's Program
+   - Brief Look Into the Day's Program
 
 2. **WHAT: What is a Named Entity?**
    - Definitions and Types of Named Entities
    - Entity Boundary and Nested Entities
    - NE Tagging Formats
-   - Group discussion on existing NER annoted historical corpora
+   - Group discussion on existing NER annotated historical corpora
 
 3. **First Scholarly Presentation:** Information Extraction from German Medieval Charters Abstracts
    
