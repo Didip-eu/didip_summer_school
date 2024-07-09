@@ -20,6 +20,7 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
    - Why do we do NER? - Information Extraction: Relation Extraction, Event Extraction, Coreference Resolution, Named Entity Linking, Knowledge Base Population
    - Overview of existing annotation toolkits (Transkribus, Inception, Doccano)
    - Hands-on session on creating annotated data.
+      - Inception invitation link: http://157.230.123.17:8080/p/summerschool/join-project/pDzNJc7l-V7qx7eP4jEk4w
 
 4. **HOW: What is Named Entity Recognition?**
    - Specific challenges in historical NER.
