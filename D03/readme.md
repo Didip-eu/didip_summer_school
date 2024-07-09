@@ -9,33 +9,35 @@ Ismail **Prada** (Univ. Bern): Named Entity Recognition
 This day-long session at the NLP for Medievalists School focuses on the topic of Named Entity Recognition (NER) for historical texts, particularly medieval documents. The session is covering the following topics:
 
 1. **General Introduction**
-   - Brief history of NER techniques, from rule-based to unsupervised and supervised approaches.
+   - Brief Introduction of the Day's Instructors
+   - Brief Look into the Day's Program
 
 2. **WHAT: What is a Named Entity?**
-   - Definitions and categories of named entities.
-   - Challenges in handling flat vs. nested named entities.
-   - Group discussion on annotation guidelines for various medieval corpora.
+   - Definitions and Types of Named Entities
+   - Entity Boundary and Nested Entities
+   - NE Tagging Formats
+   - Group discussion on existing NER annoted historical corpora
 
-3. **WHY: Why Do We Do Named Entity Recognition?**
-   - Why do we do NER? - Information Extraction: Relation Extraction, Event Extraction, Coreference Resolution, Named Entity Linking, Knowledge Base Population
-   - Overview of existing annotation toolkits (Transkribus, Inception, Doccano)
-   - Hands-on session on creating annotated data.
-      - Inception invitation link: http://157.230.123.17:8080/p/summerschool/join-project/pDzNJc7l-V7qx7eP4jEk4w
+3. **First Scholarly Presentation:** Information Extraction from German Medieval Charters Abstracts
+   
+4. **WHY: Why Do We Do Named Entity Recognition?**
+   - Why do We do NER? - Information Extraction: Relation Extraction, Event Extraction, Coreference Resolution, Named Entity Linking, Knowledge Base Population
+   - Dataset Annotation of NER Process:
+         - Annotation Guidelines for NER
+         - Annotation Toolkits for NER
+         - Hands-on Session on Creating Annotated Data:
+               - Inception Invitation Link: http://157.230.123.17:8080/p/summerschool/join-project/pDzNJc7l-V7qx7eP4jEk4w
 
-4. **HOW: What is Named Entity Recognition?**
-   - Specific challenges in historical NER.
-   - Supervised sequence-to-sequence models (Flair, spaCy, Transformers) and their advantages/disadvantages.
-   - Evaluation metrics beyond just recall and precision.
-   - Hands-on session on fine-tuning NER models on historical data.
+5. **Second Scholarly Presentation:** Digital Edition of the Memoirs of Countess Luise Charlotte von Schwerin (1684–1732). Application of Named Entity Recognition
+   
+6. **Third Scholarly Presentation:** Economies of Space. Practices, Discourses and Actors on the Basel Real Estate Market (1400-1700) 
 
-## Showcases
-
-- Information Extraction from German Medieval Charters Abstracts
-- Active Learning + NER for French Texts 
-- NER on Historical German and Ottoman Turkish Corpora 
-
-## Hands-On Sessions
-
-- Creating annotated data for NER
-- Adopting and fine-tuning existing NER frameworks (Flair, spaCy) on historical corpora
-- Applying NER models to participants' own data
+7. **HOW: How to Do Named Entity Recognition?**
+   - Bi-LSTM + CRF, Contextual Character Embeddings, Transformer Models (LLM)
+   - Model Architectures and Model Training Strategies
+   - NER Evaluation Metrics
+   - Challenges in Dealing with Historical Data + Solutions
+   - Hands-on session:
+       - Annotating Text with Flair
+       - Apply Model to Your Own Data
+         
