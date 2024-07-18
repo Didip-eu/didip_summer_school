@@ -24,21 +24,27 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 
 ### Session 2
    
-4. **WHY: Why Do We Do Named Entity Recognition?**
-   - Why do We do NER? - Information Extraction: Relation Extraction, Event Extraction, Coreference Resolution, Named Entity Linking, Knowledge Base Population
-   - Dataset Annotation of NER Process:
-       - Annotation Guidelines for NER
-       - Annotation Toolkits for NER
-       - Hands-on Session on Creating Annotated Data:
-           - Inception Invitation Link: http://157.230.123.17:8080/p/summerschool/join-project/pDzNJc7l-V7qx7eP4jEk4w
+4. **WHY: Why do we do Named Entity Recognition?**
+   - Information Extraction:
+       - Relation Extraction
+       - Event Extraction
+       - Coreference Resolution
+       - Named Entity Linking
+       - Knowledge Base Population
+         
+5. **Dataset Annotation of NER Process**
+   - Annotation Guidelines for NER
+   - Annotation Toolkits for NER
+   - Hands-on Session on Creating Annotated Data:
+       - Inception Invitation Link: http://157.230.123.17:8080/p/summerschool/join-project/pDzNJc7l-V7qx7eP4jEk4w
 
-5. **Second Scholarly Presentation:** Digital Edition of the Memoirs of Countess Luise Charlotte von Schwerin (1684–1732). Application of Named Entity Recognition
+7. **Second Scholarly Presentation:** Digital Edition of the Memoirs of Countess Luise Charlotte von Schwerin (1684–1732). Application of Named Entity Recognition
 
 ### Session 3
    
-6. **Third Scholarly Presentation:** Economies of Space. Practices, Discourses and Actors on the Basel Real Estate Market (1400-1700) 
+7. **Third Scholarly Presentation:** Economies of Space. Practices, Discourses and Actors on the Basel Real Estate Market (1400-1700) 
 
-7. **HOW: How to Do Named Entity Recognition?**
+8. **HOW: How to Do Named Entity Recognition?**
    - Bi-LSTM + CRF, Contextual Character Embeddings, Transformer Models (LLM)
    - Models Architecture and Models Training Strategies
    - NER Evaluation Metrics
@@ -48,8 +54,8 @@ This day-long session at the NLP for Medievalists School focuses on the topic of
 
 ### Session 4
 
-7. **HOW: How to Do Named Entity Recognition?**
+8. **HOW: How to Do Named Entity Recognition?**
    - Hands-on Sessions:
        - Annotating Text with Flair (Continuing this Part)
-       - Apply Model to Your Own Data
+       - Training and Fine-Tuning with Flair 
          
